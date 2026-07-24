@@ -758,5 +758,35 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-24 19:04"
+    },
+    {
+        "title": "Mysterious Ransomware Strain Identified by .eBxYvrnE File Extension",
+        "content": "A newly discovered ransomware strain has been reported to be affecting users, encrypting their files and appending the .eBxYvrnE extension. The strain, potentially linked to Proton or Shinra, has left victims seeking help in identifying the malware. Despite attempts to use ID Ransomware, a tool designed to identify ransomware infections, the system was unable to recognize the specific strain. The discovery of this new strain highlights the ever-evolving threat landscape of ransomware and the importance of staying vigilant in protecting against such attacks. As researchers continue to investigate, users are advised to exercise caution when interacting with suspicious emails or links that may potentially lead to ransomware infections.",
+        "summary": "A mysterious ransomware strain with the .eBxYvrnE file extension has been identified, leaving users seeking help in determining the source of the infection.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817437/unknown-ransomware-ebxyvrne-extension-protonshinra/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-24 23:41"
+    },
+    {
+        "title": "AI-Powered Malware Emerges: Dolphin X Trojan Targets High-Value Victims",
+        "content": "A recently discovered remote access trojan, known as Dolphin X, has been found to utilize artificial intelligence to profile and rank infected users. This innovative feature enables cybercriminals to pinpoint and prioritize high-value targets, maximizing the potential for financial gain. The malware's AI-powered profiling capability assigns a score to each infected user, allowing attackers to strategically focus on the most lucrative victims. This development highlights the evolving sophistication of malware and the increasing use of AI in cybercrime.",
+        "summary": "The Dolphin X remote access trojan uses AI to identify and rank high-value targets, posing a significant threat to individuals and organizations.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/new-dolphin-x-malware-uses-ai-to-rank-high-value-targets/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-24 23:41"
+    },
+    {
+        "title": "Malicious Ads on Bing Spread SectopRAT Malware via Fake Claude App",
+        "content": "A recent surge in malicious advertising on the Bing search platform has been discovered, promoting a counterfeit version of the Claude desktop application. This fake app, hosted on a legitimate domain associated with Claude.ai, is designed to deploy the SectopRAT malware. The campaign has reportedly affected at least 29 organizations, highlighting the growing concern of malvertising and its potential to spread harmful software. The use of legitimate domains to host malware-laced installers adds complexity to the detection and mitigation of such threats, underscoring the need for enhanced security measures and user vigilance.",
+        "summary": "A malvertising campaign on Bing is promoting a fake Claude app to deliver SectopRAT malware, affecting multiple organizations and raising concerns about online security.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/fake-claude-app-promoted-by-bing-ads-pushes-sectoprat-malware/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-24 23:41"
     }
 ]
