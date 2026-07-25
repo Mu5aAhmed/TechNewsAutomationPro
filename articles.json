@@ -898,5 +898,35 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-25 15:47"
+    },
+    {
+        "title": "OnTrac Parcel Delivery Company Discloses Network Hack and Potential Customer Data Exposure",
+        "content": "A recent cybersecurity incident has prompted OnTrac, a prominent parcel delivery company, to notify its customers of a potential data breach. The company's corporate network was compromised by hackers, who may have gained access to sensitive personal information belonging to OnTrac's customers. The breach was discovered on March 23, and an investigation is currently underway to determine the extent of the incident. OnTrac is taking steps to inform affected individuals and provide them with necessary support and resources. The company's prompt response and transparency in addressing the situation are crucial in mitigating the impact of the breach and maintaining customer trust.",
+        "summary": "OnTrac parcel delivery company notifies customers of a potential data breach after detecting a network hack, which may have exposed personal details of its customers.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/ontrac-notifies-customers-of-data-breach-after-network-hack/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-25 20:14"
+    },
+    {
+        "title": "AI-Powered Attack Targets Thai Finance Ministry in Sophisticated Breach",
+        "content": "A recent cyber attack on Thailand's Ministry of Finance has highlighted the increasing use of artificial intelligence in malicious activities. According to reports, a threat actor leveraged the open-source Hermes AI agent to automate post-exploitation tasks during the alleged breach. The AI agent was deployed in an unattended mode, allowing it to operate without human intervention. This incident underscores the evolving threat landscape, where attackers are leveraging advanced technologies like AI to carry out complex and targeted attacks. The use of AI-powered tools enables threat actors to automate and streamline their operations, making it challenging for security systems to detect and respond to such threats.",
+        "summary": "Thailand's Ministry of Finance was targeted in a sophisticated cyber attack, where a threat actor used an open-source AI agent to automate post-exploitation activities, highlighting the growing use of AI in malicious operations.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/hermes-ai-agent-used-to-automate-attack-on-thai-finance-ministry/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-25 20:14"
+    },
+    {
+        "title": "Cyber Threats Target Hospitality Industry: Hackers Exploit Hotel Wi-Fi to Steal Sensitive Data",
+        "content": "A recent surge in cyber attacks has been reported, where hackers are infiltrating the Wi-Fi networks of hotels and conference centers. By manipulating the DNS settings on these networks, they are able to redirect unsuspecting users to counterfeit Microsoft 365 login pages. This clever tactic allows the hackers to intercept and steal sensitive login credentials, posing a significant threat to individuals and organizations alike. The campaign, which is believed to have begun at least June, highlights the importance of vigilance and robust security measures in the hospitality industry.",
+        "summary": "Hackers are exploiting hotel Wi-Fi networks by changing DNS settings to steal Microsoft 365 account credentials, in an ongoing campaign that started in June.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/hackers-hijack-hotel-wi-fi-dns-to-steal-microsoft-365-accounts/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-25 20:14"
     }
 ]
