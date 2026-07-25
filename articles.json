@@ -798,5 +798,45 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-25 07:35"
+    },
+    {
+        "title": "Illinois Man Receives Six-Year Prison Sentence for Hacking Hundreds of Snapchat Accounts",
+        "content": "A recent court ruling has resulted in a six-year prison sentence for an Illinois resident who engaged in a large-scale hacking operation. The individual, who was sentenced to 76 months in prison followed by a three-year supervised release period, was found guilty of compromising the Snapchat accounts of over 750 women. The primary motivation behind this cybercrime was to obtain and distribute explicit images. This case highlights the growing concern of online security and the importance of protecting personal data in the digital age.",
+        "summary": "An Illinois man has been sentenced to six years in prison for hacking into the Snapchat accounts of over 750 women to steal explicit photos.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/man-gets-six-years-for-hacking-750-womens-snapchat-accounts/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-25 11:51"
+    },
+    {
+        "title": "New Ransomware Strain Emerges with .yrPoY3rBX Extension, Linked to Lockbit 3.0 Black",
+        "content": "A recently discovered ransomware incident is affecting a company, with the malicious software appending the .yrPoY3rBX extension to encrypted files. The ransom note, titled yrPoY3rBX.README.txt, contains contact information for the attackers. Notably, popular ransomware identification tools, such as ID Ransomware and NoMoreRansom, may not be effective in identifying this strain due to their decreased accuracy in recent years. The infection is believed to be related to Lockbit 3.0 Black, a notorious ransomware variant. As the situation unfolds, it highlights the ongoing threat of ransomware attacks and the importance of robust cybersecurity measures.",
+        "summary": "A new ransomware strain with the .yrPoY3rBX extension has been identified, linked to Lockbit 3.0 Black, and is affecting a company, with traditional identification tools potentially ineffective",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817505/unknown-ransomware-yrpoy3rbx-extension-lockbit-30-black/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-25 11:51"
+    },
+    {
+        "title": "Malware Alert: Free Software from Untrusted Sources Poses Significant Risk",
+        "content": "A recent incident has highlighted the dangers of installing free software from unverified sources. In a cautionary tale, a user unknowingly exposed their computer to potential malware by installing free games from a friend. The software in question, which included files for popular games, was later removed, but not before raising concerns about the presence of a suspected trojan. This incident serves as a reminder to exercise extreme caution when downloading software from unknown sources, as it can lead to serious security breaches. The user's experience is a stark warning about the importance of verifying the authenticity and safety of software before installation.",
+        "summary": "A user's computer was potentially compromised by malware after installing free software from an untrusted source, highlighting the risks of downloading unverified programs.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817513/suspected-malwaretrojan-on-computer/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-25 11:52"
+    },
+    {
+        "title": "Clop Ransomware Group Launches Cyber Attacks on Exposed Windchill and FlexPLM Systems",
+        "content": "A recent surge in cyber attacks has been reported, with the Clop ransomware group exploiting vulnerabilities in internet-exposed PTC Windchill and FlexPLM instances. This new campaign involves data theft extortion, where the attackers demand payment in exchange for not releasing sensitive information. The group, also known as Cl0p, has been targeting these specific systems in an effort to compromise valuable data. According to reports, the attackers are taking advantage of a critical vulnerability to gain unauthorized access to the systems. The campaign highlights the importance of securing internet-exposed systems and ensuring that vulnerabilities are patched promptly to prevent such attacks.",
+        "summary": "The Clop ransomware group is targeting internet-exposed PTC Windchill and FlexPLM instances in a data theft extortion campaign, exploiting vulnerabilities to compromise sensitive information.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/clop-ransomware-targets-windchill-flexplm-in-data-theft-attacks/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-25 11:52"
     }
 ]
