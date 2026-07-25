@@ -788,5 +788,15 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-24 23:41"
+    },
+    {
+        "title": "Mysterious Ransomware Strain Emerges with .yrPoY3rBX File Extension",
+        "content": "A newly discovered ransomware variant has been identified, leaving researchers baffled due to its unfamiliar characteristics. The strain, which appends the .yrPoY3rBX extension to compromised files, was recently reported in a ransomware support forum. According to the initial report, the ransomware leaves a ransom note named yrPoY3rBX.README.txt, providing contact information for potential victims seeking to recover their encrypted data. The incident is currently under investigation, with details emerging about the ransomware's impact on a targeted company. As the situation unfolds, cybersecurity experts are working to understand the origins and motivations behind this enigmatic threat.",
+        "summary": "A mysterious ransomware strain with the .yrPoY3rBX file extension has been discovered, with a ransom note and contact information for victims, and is currently under investigation.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817505/unknown-ransomware-yrpoy3rbx-extension-unable-to-identify/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-25 07:35"
     }
 ]
