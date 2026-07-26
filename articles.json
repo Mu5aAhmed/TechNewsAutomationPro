@@ -928,5 +928,15 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-25 20:14"
+    },
+    {
+        "title": "Global Outage Hits ChatGPT, OpenAI Confirms Disruption",
+        "content": "A widespread connectivity issue has been reported with ChatGPT, a popular artificial intelligence-powered chatbot developed by OpenAI. This platform, known for enabling users to engage in conversations on a wide range of topics and personas, is currently inaccessible to users worldwide. The confirmation of this outage comes directly from OpenAI, acknowledging that users are experiencing difficulties in accessing the service. The cause of the disruption and the expected time for resolution have not been specified, leaving users awaiting further updates from OpenAI.",
+        "summary": "ChatGPT, a renowned AI chatbot, is facing global connectivity issues, with OpenAI confirming the outage and users unable to access the service.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-26 11:49"
     }
 ]
