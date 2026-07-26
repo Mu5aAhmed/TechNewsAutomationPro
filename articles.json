@@ -938,5 +938,25 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-26 11:49"
+    },
+    {
+        "title": "Malicious Campaign Utilizes JavaScript to Construct Malware in Browser Memory",
+        "content": "A recent discovery has unearthed a large-scale malvertising operation that leverages fake websites mimicking prominent brands, including Solana, Luno, and TradingView. These counterfeit sites employ malicious JavaScript code, which instructs web browsers to compile malware directly into the browser's memory. This tactic allows the malware to operate without being stored on the victim's device, making it more challenging to detect. The campaign's sheer scope and complexity have raised concerns among cybersecurity experts, who warn of the potential risks associated with such an operation. As the threat landscape continues to evolve, it is essential for users to remain vigilant and take necessary precautions to protect themselves from these types of attacks.",
+        "summary": "A massive malvertising campaign uses fake websites and malicious JavaScript to build malware in browser memory, posing a significant threat to users' security.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-26 15:47"
+    },
+    {
+        "title": "Sextortion Scam Exploits ShinyHunters Data Leaks, Demands $2,000 in Bitcoin",
+        "content": "A recent wave of sextortion emails has been circulating, targeting individuals whose email addresses were exposed in data breaches leaked by the ShinyHunters extortion group. These malicious emails demand a payment of $2,000 in Bitcoin, preying on the vulnerability of those affected by the data leaks. The scammers claim to have compromising information about the recipients, using this as leverage to extort money. This scam highlights the ongoing risks associated with data breaches and the importance of protecting personal information online.",
+        "summary": "Threat actors are using leaked email addresses from ShinyHunters data breaches to send sextortion emails, demanding $2,000 in Bitcoin from victims.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-26 15:47"
     }
 ]
