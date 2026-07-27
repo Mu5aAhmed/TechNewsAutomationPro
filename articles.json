@@ -968,5 +968,35 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-27 10:51"
+    },
+    {
+        "title": "Home Computer Users Beware: Identifying Malware Symptoms",
+        "content": "A concerning trend is emerging among home computer users, with reports of slow performance and frequent freezing. In a recent case, a Dell desktop user experienced significant slowdowns and occasional freezes, prompting concerns about potential malware infection. Despite regular maintenance, including scans with reputable antivirus software like McAfee, the issues persisted. This raises important questions about the effectiveness of current security measures and the need for users to be vigilant in monitoring their systems for signs of malware. As the reliance on home computers for work and personal activities continues to grow, it is essential for users to understand the warning signs of malware and take proactive steps to protect their devices.",
+        "summary": "A home computer user is seeking assistance to determine if their slow and freezing Dell desktop is infected with malware, highlighting the importance of cybersecurity awareness and regular system maintenance.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817574/need-assistance-determining-if-i-have-malware/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-27 17:20"
+    },
+    {
+        "title": "GitHub and PyPI Bolster Supply Chain Security with Time-Based Defenses",
+        "content": "In a bid to fortify their platforms against malicious attacks, GitHub and the Python Package Index (PyPI) have integrated a time-based security mechanism into the Dependabot dependency management tool. This strategic move aims to safeguard against supply chain attacks, which have become an increasingly prevalent threat in the software development landscape. By incorporating a temporal layer of defense, these platforms seek to minimize the potential damage caused by such attacks, thereby enhancing the overall security posture of their ecosystems. The introduction of this mechanism is a testament to the ongoing efforts of GitHub and PyPI to stay ahead of emerging threats and protect their vast user bases.",
+        "summary": "GitHub and PyPI have introduced a time-based security mechanism to protect against supply chain attacks, enhancing the security of their platforms and user bases.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-27 17:20"
+    },
+    {
+        "title": "New Ransomware Strain Identified: RiskyPoC Uses Strong AES Encryption",
+        "content": "A newly discovered ransomware strain, known as RiskyPoC, has been found to utilize strong AES encryption with PBKDF2-derived keys to lock down victim files. This malware appends an .enc extension to the encrypted files, making them inaccessible to users. The encryption process involves the use of AES-CBC, a widely used and highly secure encryption algorithm. The initial payload of the ransomware is encrypted using this method, and the key is derived through a PBKDF2 process. This complex encryption method makes it challenging for security experts to crack the code and recover the encrypted files. The RiskyPoC ransomware also creates .iv and .salt files, which are likely used to store encryption-related data.",
+        "summary": "RiskyPoC ransomware uses strong AES encryption with PBKDF2-derived keys to lock down victim files, making it challenging to recover encrypted data.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/810457/riskypoc-ransomware-enc-extension;-iv-salt-files/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-27 17:20"
     }
 ]
