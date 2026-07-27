@@ -958,5 +958,15 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-26 15:47"
+    },
+    {
+        "title": "New Ransomware Variant Emerges with .hrr Extension",
+        "content": "A recently discovered ransomware strain has been identified, targeting Synology devices and appending the .hrr extension to encrypted files. The attack involves the creation of ransom notes, namely READ_ME_UNLOCK_FILES.txt and README_FOR_DECRYPT.txt, each approximately 223 bytes in size. This malicious software is currently under investigation, with details of the incident surfacing on online forums. The emergence of this new ransomware variant highlights the ongoing threat of cyberattacks and the importance of robust security measures. As the situation unfolds, further information is expected to become available, shedding light on the origins and potential vulnerabilities of this .hrr ransomware. In conclusion, the discovery of this new ransomware strain serves as a reminder of the constant evolution of cyber threats and the need for vigilance in protecting digital assets.",
+        "summary": "A new ransomware variant with the .hrr extension has been detected, targeting Synology devices and demanding ransom in exchange for decryption keys.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817555/unknown-ransomware-hrr/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-27 10:51"
     }
 ]
