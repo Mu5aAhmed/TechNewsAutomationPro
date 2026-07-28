@@ -998,5 +998,45 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-27 17:20"
+    },
+    {
+        "title": "Coca-Cola Subsidiary Fairlife Hit by Ransomware Attack, Data Stolen",
+        "content": "In a recent cybersecurity incident, The Coca-Cola Company has acknowledged that its dairy subsidiary, Fairlife, was targeted in a ransomware attack. This attack, which occurred earlier this month, resulted in the unauthorized theft of data. The confirmation comes as companies around the world face increasing threats from cyberattacks, highlighting the need for robust security measures. The incident underscores the vulnerability of even large corporations to such threats and the importance of proactive cybersecurity strategies.",
+        "summary": "The Coca-Cola Company's dairy subsidiary, Fairlife, has been hit by a ransomware attack, leading to data theft. This incident highlights the growing concern of cybersecurity threats to businesses.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-28 15:55"
+    },
+    {
+        "title": "Ernst & Young Falls Victim to Data Breach, Extortion Gang Takes Credit",
+        "content": "A recent data breach at Ernst & Young has been claimed by the notorious ShinyHunters extortion gang, who allegedly gained access to the company's systems through a supply-chain attack. This type of attack involves targeting a weaker link in the supply chain to ultimately gain access to a larger, more secure organization. The breach has raised concerns about the vulnerability of even the most secure companies to these types of attacks. As the situation unfolds, Ernst & Young is likely to face increased scrutiny over its data security measures and how it plans to prevent similar breaches in the future.",
+        "summary": "The ShinyHunters extortion gang has taken credit for a data breach at Ernst & Young, using a supply-chain attack to gain access to the company's systems.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/ernst-and-young-data-breach-claimed-by-shinyhunters-extortion-gang/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-28 15:55"
+    },
+    {
+        "title": "Unregulated AI Agents Pose Significant Security Risks to Enterprises",
+        "content": "The proliferation of artificial intelligence agents across various enterprise platforms has raised significant concerns regarding security and visibility. As employees increasingly utilize tools such as Salesforce Agentforce, Microsoft Copilot Studio, and Zapier to create AI-powered agents, many of these agents operate without the knowledge or approval of IT or security departments. This lack of oversight can lead to unmanaged permissions and autonomous actions, ultimately creating security vulnerabilities. To mitigate these risks, organizations must implement measures to discover, assess, and govern AI agents, ensuring that they are aligned with existing security protocols and best practices.",
+        "summary": "The rapid growth of AI agents in enterprise platforms poses security risks due to lack of visibility and oversight, emphasizing the need for organizations to implement discovery, assessment, and governance measures.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/shadow-ai-agents-are-multiplying-heres-how-to-find-and-secure-them/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-28 15:55"
+    },
+    {
+        "title": "Nvidia Forms Coalition to Boost AI Security with Open Secure AI Alliance",
+        "content": "In a significant move to enhance the security of artificial intelligence systems, Nvidia has joined forces with a plethora of tech giants, cybersecurity experts, and enterprise software providers to launch the Open Secure AI Alliance. This initiative aims to provide defenders with a suite of open tools designed to test, audit, and protect AI models and agents, thereby bolstering the overall security posture of AI deployments. The alliance seeks to foster a collaborative environment where members can share knowledge, resources, and expertise to develop innovative solutions that address the complex security challenges associated with AI. By promoting transparency and openness, the Open Secure AI Alliance hopes to empower organizations to build more robust and resilient AI systems, ultimately mitigating the risks associated with AI-related threats.",
+        "summary": "Nvidia and a coalition of tech companies have launched the Open Secure AI Alliance to develop open tools for securing AI models and agents",
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/nvidia-and-tech-giants-launch-ai-security-alliance/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-28 15:55"
     }
 ]
