@@ -1108,5 +1108,15 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-29 16:12"
+    },
+    {
+        "title": "US and Australia Issue Joint Guidance on Protecting Critical Infrastructure from Cyber Threats",
+        "content": "In a bid to bolster cybersecurity, the US and Australian governments have collaborated on a new set of guidelines aimed at assisting critical infrastructure organizations in preparing for potential cyberattacks. The advisory emphasizes the importance of isolating vital operational technology systems in the event of a major disruption, such as a cyberattack, to prevent widespread damage and ensure continuity of essential services. By taking proactive measures to segregate critical systems, organizations can significantly reduce the risk of a cyberattack compromising their operations. The guidance is part of a broader effort to enhance the resilience of critical infrastructure and protect against increasingly sophisticated cyber threats.",
+        "summary": "The US and Australian governments have released joint guidance on protecting critical infrastructure from cyber threats, emphasizing the need to isolate vital systems in the event of an attack.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-29 20:32"
     }
 ]
