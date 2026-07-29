@@ -1038,5 +1038,35 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-28 15:55"
+    },
+    {
+        "title": "Cyber Threats Escalate: Hackers Exploit FastJson Vulnerability to Target US Companies",
+        "content": "A recently discovered security flaw in the FastJson open-source Java library has become the target of active exploitation by hackers. This vulnerability allows for remote code execution, enabling attackers to gain control over affected systems without requiring user interaction or elevated privileges. The issue poses a significant threat to US firms, which are being actively targeted in these zero-day attacks. As a result, companies utilizing the FastJson library are advised to take immediate action to patch the vulnerability and prevent potential breaches.",
+        "summary": "Hackers are exploiting a zero-day vulnerability in the FastJson Java library to launch remote code execution attacks on US companies, highlighting the need for urgent patches and increased cybersecurity measures.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-29 00:12"
+    },
+    {
+        "title": "Arista Releases Critical Patch for VeloCloud Orchestrator Vulnerability",
+        "content": "In a recent development, Arista has issued a patch to address a high-severity command injection vulnerability affecting its on-premises VeloCloud Orchestrator deployments. This vulnerability has been found to be actively exploited by attackers, highlighting the urgency of the situation. The patch aims to mitigate the risk associated with this maximum-severity vulnerability, which could potentially allow unauthorized access and control. The vulnerability in question has been identified and tracked, prompting Arista to take swift action to protect its users. As cybersecurity threats continue to evolve, such proactive measures are crucial in safeguarding against potential attacks.",
+        "summary": "Arista has patched a critical command injection vulnerability in its VeloCloud Orchestrator that was being exploited in attacks, ensuring the security of its on-premises deployments.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/arista-patches-velocloud-orchestrator-zero-day-exploited-in-attacks/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-29 00:12"
+    },
+    {
+        "title": "Vulnerability in Windows Active Directory Certificate Services Exposed by Certighost Exploit",
+        "content": "A significant vulnerability in Windows Active Directory Certificate Services, known as Certighost, has been identified and a proof-of-concept exploit has been made public. This exploit has the potential to allow authenticated attackers to gain control of a Windows domain, posing a substantial threat to the security of affected systems. The vulnerability can be leveraged by attackers who have already gained access to a system, enabling them to escalate their privileges and potentially hijack the entire domain. This development underscores the importance of timely patching and robust security measures to protect against such exploits.",
+        "summary": "A proof-of-concept exploit for the Certighost vulnerability in Windows Active Directory Certificate Services has been released, allowing authenticated attackers to potentially compromise a Windows domain.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/new-certighost-poc-exploit-lets-attackers-hijack-windows-domains/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-29 00:12"
     }
 ]
