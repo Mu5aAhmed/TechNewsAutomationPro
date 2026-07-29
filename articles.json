@@ -1098,5 +1098,15 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-29 10:49"
+    },
+    {
+        "title": "Enhancing SSO Security: A Matter of Urgency in Today's Digital Landscape",
+        "content": "The convenience of Single Sign-On (SSO) solutions, which allow users to access multiple systems with a single set of credentials, has become a cornerstone of modern authentication processes. However, this simplicity also introduces significant security risks if not properly protected. A breach in SSO login credentials can grant attackers unrestricted access to a wide array of enterprise applications and services, highlighting the critical need for enhanced security measures. To mitigate these risks, experts recommend implementing stronger, more complex passwords, coupled with phishing-resistant Multi-Factor Authentication (MFA) and comprehensive identity hardening strategies. These proactive approaches are essential in safeguarding SSO environments against sophisticated credential attacks, thereby protecting the integrity of enterprise systems and data.",
+        "summary": "The security of Single Sign-On systems is under threat from modern credential attacks, necessitating the use of stronger passwords, phishing-resistant MFA, and identity hardening to protect enterprise applications and services.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/is-your-sso-protected-against-modern-credential-attacks/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-29 16:12"
     }
 ]
