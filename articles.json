@@ -1218,5 +1218,15 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-30 16:18"
+    },
+    {
+        "title": "Russian Cyber Threat Actors Utilize Exchange Vulnerability for Sustained Email Access",
+        "content": "A recently discovered exploit by a Russian state-sponsored hacking collective, known for its sophisticated tactics, has been leveraging a previously unknown vulnerability in Microsoft Exchange's Outlook Web Access. This exploit enables the group to gain prolonged access to targeted mailboxes, potentially allowing for the exfiltration of sensitive information. The hacking group, identified by various aliases, has been distributing a complex backdoor tool via carefully crafted email campaigns. This backdoor, designed to evade detection, grants attackers comprehensive control over compromised systems, underscoring the evolving threat landscape in cybersecurity. As this vulnerability is being actively exploited, it is imperative for organizations to ensure their Exchange servers are updated with the latest security patches to mitigate potential risks.",
+        "summary": "A Russian state-sponsored hacking group is exploiting an Exchange Outlook Web Access zero-day vulnerability to gain long-term access to mailboxes, delivering a sophisticated backdoor through targeted email campaigns.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-31 08:11"
     }
 ]
