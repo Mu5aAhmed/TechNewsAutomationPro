@@ -1298,5 +1298,35 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-31 16:15"
+    },
+    {
+        "title": "North Korean Hackers Implicated in Notable Open-Source Software Attacks",
+        "content": "A recent investigation by Amazon has shed light on the perpetrators behind several high-profile supply chain attacks targeting the Node Package Manager ecosystem. According to the findings, these attacks, which compromised popular packages such as Debug and Chalk, have been linked to a group of hackers originating from North Korea. This revelation underscores the growing concern of state-sponsored cyber threats and their potential impact on the open-source software community. As the cloud computing giant continues to delve into the matter, the incident serves as a stark reminder of the importance of robust security measures in protecting sensitive software ecosystems.",
+        "summary": "Amazon's investigation reveals North Korean hackers are behind multiple supply chain attacks on the Node Package Manager ecosystem, highlighting the need for enhanced security in open-source software.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-31 20:51"
+    },
+    {
+        "title": "AI Boosts Chrome's Security: Over 1,000 Bugs Fixed in Latest Releases",
+        "content": "In a significant advancement for browser security, Google has announced that its integration of artificial intelligence (AI) has substantially enhanced the detection and resolution of security vulnerabilities in Chrome. According to the tech giant, the strategic deployment of AI has led to the identification and patching of an impressive 1,072 security bugs across the two most recent Chrome releases. This development underscores the expanding role of AI in bolstering cybersecurity, particularly in the realm of web browsing. By leveraging AI, Google aims to further strengthen Chrome's defenses against emerging threats, providing users with a more secure browsing experience. The success of this initiative highlights the potential of AI in revolutionizing how tech companies approach security, paving the way for more innovative solutions in the future.",
+        "summary": "Google's use of AI in Chrome has resulted in the fixing of over 1,000 security bugs, marking a significant improvement in browser security.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-31 20:51"
+    },
+    {
+        "title": "Brinks Home Security Systems Compromised in Latest Cyber Attack",
+        "content": "A recent cyber breach has been reported by Brinks Home, a prominent residential security company, in which hackers have gained unauthorized access to certain systems. The incident, which was detected on July 20, has led to concerns over potential data leaks, with the perpetrators threatening to release sensitive information. According to reports, the hacking group responsible for the attack, known as ShinyHunters, has claimed responsibility and is now demanding action from the company. The breach has raised significant concerns about the security of customer data and the potential consequences of such a leak. As the situation continues to unfold, Brinks Home is working to contain the damage and prevent further unauthorized access to its systems.",
+        "summary": "Brinks Home, a residential security company, has fallen victim to a cyber attack, with hackers threatening to leak stolen data. The company is working to mitigate the breach and protect customer information.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/shinyhunters-claims-brinks-home-breach-threatens-to-leak-stolen-data/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-07-31 20:51"
     }
 ]
