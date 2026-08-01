@@ -1388,5 +1388,35 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-01 16:32"
+    },
+    {
+        "title": "OpenAI Achieves Breakthrough in Cost Efficiency with Latest GPT-5.6 Models",
+        "content": "In a significant development, OpenAI has announced a substantial reduction in the prices of its GPT-5.6 models, marking a major milestone in the company's efforts to enhance the cost efficiency of its artificial intelligence offerings. The price cuts are particularly notable for the Luna and Terra models, with the former seeing an 80% decrease in its API price and the latter experiencing a 20% reduction. This move is expected to make OpenAI's models more accessible to a wider range of users, from developers to businesses, and underscores the company's commitment to driving innovation in the field of AI. As the demand for AI-powered solutions continues to grow, OpenAI's latest pricing strategy is likely to have a positive impact on the industry as a whole.",
+        "summary": "OpenAI reduces prices of GPT-5.6 models, making them more cost-efficient and accessible to users.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-01 20:16"
+    },
+    {
+        "title": "Autonomous Cyberattacks on the Rise: Hackers Leverage AI-Powered Tools",
+        "content": "In a disturbing trend, a Chinese-speaking threat actor has been identified as utilizing advanced artificial intelligence to launch autonomous cyberattacks on vulnerable servers. By harnessing the power of the DeepSeek AI model in conjunction with the open-source Hermes Agent, this malicious entity is able to conduct complex attacks with minimal human intervention. This development underscores the evolving nature of cybersecurity threats, where attackers are increasingly leveraging cutting-edge technologies to exploit weaknesses in server security. The use of AI-driven tools enables these threat actors to scan for, identify, and exploit vulnerabilities at an unprecedented scale and speed, posing significant challenges for cybersecurity professionals tasked with defending against such attacks.",
+        "summary": "A Chinese-speaking hacker is using AI-powered tools to autonomously attack vulnerable servers, highlighting the growing threat of artificial intelligence-driven cyberattacks.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-01 20:16"
+    },
+    {
+        "title": "US Water Utilities Face Rising Cyber Threats, CISA Issues Warning",
+        "content": "A recent alert from the US Cybersecurity and Infrastructure Security Agency (CISA) has highlighted a surge in cyberattacks targeting vulnerable systems in the water and wastewater sector. Specifically, the agency has identified an increase in attacks on internet-exposed programmable logic controllers (PLCs), which are critical components of water utility infrastructure. These PLCs are used to monitor and control various aspects of water treatment and distribution, making them a prime target for malicious actors seeking to disrupt essential services. As the US water utilities sector relies heavily on these systems, the potential consequences of a successful attack could be severe, including contamination of water supplies, disruption of service, and even physical harm to the public. CISA's warning serves as a reminder of the importance of robust cybersecurity measures in protecting critical infrastructure from evolving threats.",
+        "summary": "The US Cybersecurity and Infrastructure Security Agency has warned of a significant increase in cyberattacks targeting internet-exposed programmable logic controllers in the water and wastewater systems sector, highlighting the need for enhanced cybersecurity measures to protect critical infrastructure.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-01 20:16"
     }
 ]
