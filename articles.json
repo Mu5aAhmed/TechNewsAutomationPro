@@ -1328,5 +1328,35 @@
         "image": "",
         "category": "Technology",
         "date": "2026-07-31 20:51"
+    },
+    {
+        "title": "South Korea Imposes Hefty Fine on Telecoms Giant for Data Breach",
+        "content": "In a significant move to enforce data protection regulations, South Korea's regulatory body has slapped a substantial fine on one of the country's largest telecommunications companies. The penalty, amounting to approximately $39 million, was imposed due to a major customer data breach. The incident highlights the importance of robust data security measures and the consequences of failing to protect sensitive customer information. The fine is one of the largest of its kind in the country, underscoring the government's commitment to safeguarding personal data. The telecommunications giant has been ordered to pay the fine and take corrective measures to prevent such breaches in the future.",
+        "summary": "South Korea fines a major telecoms company $39 million for a customer data breach, emphasizing the need for robust data security measures.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-01 00:14"
+    },
+    {
+        "title": "Critical Vulnerability Discovered in TeamCity On-Premises, Posing Remote Code Execution Risk",
+        "content": "A high-severity authentication bypass vulnerability has been identified in TeamCity On-Premises, a product developed by JetBrains. This security flaw can be exploited by attackers to execute arbitrary code remotely, posing a significant threat to affected systems. The vulnerability is being tracked by a unique identifier and has been publicly disclosed to raise awareness among users and prompt them to take corrective action. JetBrains has issued a warning to its customers, urging them to take immediate measures to mitigate the risk of remote code execution.",
+        "summary": "JetBrains has warned its customers about a critical authentication bypass vulnerability in TeamCity On-Premises that can be exploited for remote code execution, and is advising users to take prompt action to secure their systems.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/jetbrains-warns-of-critical-teamcity-remote-code-execution-flaw/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-01 00:14"
+    },
+    {
+        "title": "Bank of America Expands Cybersecurity Capabilities with MDSec Acquisition",
+        "content": "In a move to bolster its cybersecurity operations, Bank of America has announced plans to acquire MDSec Consulting Limited, a UK-based information security consultancy. The acquisition is expected to bring approximately 65 cybersecurity experts into Bank of America's UK operations, enhancing the bank's ability to protect against increasingly sophisticated cyber threats. The transaction is slated to be completed by the end of the year, subject to customary closing conditions. This strategic move underscores the importance of robust cybersecurity measures in the financial sector, as institutions seek to stay ahead of emerging threats and safeguard sensitive customer data.",
+        "summary": "Bank of America to acquire UK-based cybersecurity firm MDSec, adding 65 cybersecurity professionals to its UK operations",
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/bank-of-america-to-acquire-cybersecurity-firm-mdsec/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-01 00:14"
     }
 ]
