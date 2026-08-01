@@ -1368,5 +1368,25 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-01 08:58"
+    },
+    {
+        "title": "Minnesota Water Systems Under Siege: Officials Probe Cyberattacks Amid Iranian Threats",
+        "content": "A series of cyberattacks targeting over 30 water systems in Minnesota has prompted an investigation, as experts warn of potential Iranian involvement. With a history of targeting water systems, Iranian hackers are suspected to have the capability and motivation to carry out such attacks. Authorities are working to identify the source of the cyberattacks, which have raised concerns about the vulnerability of critical infrastructure to geopolitical threats. As the situation unfolds, officials are urging vigilance and emphasizing the importance of robust cybersecurity measures to protect against such threats.",
+        "summary": "Minnesota authorities are investigating cyberattacks on over 30 water systems, amid warnings of Iranian hacker involvement, highlighting the need for robust cybersecurity measures to protect critical infrastructure.",
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-01 16:32"
+    },
+    {
+        "title": "Cyber Threats Evolve: Malicious AI Capabilities and Sophisticated Malware on the Rise",
+        "content": "The cybersecurity landscape is witnessing a significant shift, with attackers leveraging artificial intelligence to enhance the potency of their malicious activities. According to recent findings, threat actors are repurposing established tactics to exploit emerging technologies and evolving user behaviors. A notable trend is the integration of AI skills into malware, enabling it to become more adaptable and resilient. Additionally, there has been a surge in ClickFix attacks and quishing activity, further complicating the threat environment. These developments underscore the increasing sophistication of cyber threats, which are becoming more efficient and scalable. As the first half of 2026 comes to a close, it is clear that the cybersecurity community must remain vigilant in the face of these evolving threats.",
+        "summary": "The rise of malicious AI capabilities and adaptable malware poses significant challenges to cybersecurity, with attackers adapting established techniques to exploit emerging technologies and changing user behaviors.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-01 16:32"
     }
 ]
