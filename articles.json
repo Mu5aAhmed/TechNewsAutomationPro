@@ -1418,5 +1418,35 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-01 20:16"
+    },
+    {
+        "title": "Ransomware Victim Seeks Help After Discovering Potential Decryption Key",
+        "content": "A victim of the VoidCrypt ransomware has reached out for assistance after discovering a file named prvkey1.txt.key, which may hold the key to decrypting their encrypted files. The individual's files were encrypted years ago and renamed with the .bom extension, a common trait of VoidCrypt ransomware infections. The ransom note provided by the attackers included contact emails, but it is unclear if these are still active or if the attackers are still responsive. The victim has confirmed the infection using ID Ransomware and is now seeking help to assess the potential decryption key and recover their lost files.",
+        "summary": "A VoidCrypt ransomware victim has found a potential decryption key and is seeking help to assess and recover their encrypted files.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817700/voidcryptbom-ransomware-found-prvkey1txtkey-need-help-assessing/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-02 06:47"
+    },
+    {
+        "title": "Pharmaceutical Giant Amgen Hit by Cloud Data Breach, Exposing Sensitive Patient Information",
+        "content": "A recent cyber attack has compromised the security of pharmaceutical company Amgen, resulting in the exposure of patient health information and proprietary data. The breach occurred when unauthorized actors gained access to multiple cloud-based systems managed by third-party providers. This incident highlights the growing concern of data security in the cloud, particularly in industries that handle sensitive information. As the investigation unfolds, Amgen is likely to face scrutiny over its data protection measures and the potential consequences for affected patients.",
+        "summary": "Amgen, a major pharmaceutical company, has fallen victim to a cloud data breach, exposing patient health information and proprietary data stored in third-party cloud systems.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-02 06:47"
+    },
+    {
+        "title": "Arch Linux Takes Measures to Prevent Malware Infiltration",
+        "content": "In a bid to safeguard its users, the Arch Linux project has implemented a temporary ban on the adoption of packages from the Arch User Repository (AUR). This move comes in response to a recent uptick in malicious activity, where existing packages were being hijacked by bad actors. By disabling package adoption, Arch Linux aims to prevent the spread of malware and protect its community. The decision is a proactive step to ensure the security and integrity of the AUR, which is a crucial component of the Arch Linux ecosystem. The Arch Linux team is likely to reassess the situation and lift the ban once they have implemented measures to prevent such malicious takeovers in the future.",
+        "summary": "Arch Linux has temporarily banned AUR package adoption due to a surge in malicious package takeovers, aiming to prevent malware spread and protect its users.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-02 06:47"
     }
 ]
