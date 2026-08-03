@@ -1468,5 +1468,65 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-02 15:47"
+    },
+    {
+        "title": "Mysterious Ransomware Strain Identified with Random 4-Letter File Extensions",
+        "content": "A peculiar case of ransomware infection has surfaced, sparking concern among cybersecurity experts. The malware, known as Win32.Rannoh, appends a random 4-letter extension to the original filename, leaving victims puzzled. Reports indicate that the affected files are renamed with their original filename followed by a random 4-letter extension, making it challenging for users to identify the type of file. The ransomware strain is believed to be an older variant, and experts are working to provide a solution for those affected. The infection was first reported on a popular tech support forum, where a user sought help in identifying the malware. As the investigation unfolds, authorities advise users to exercise caution when dealing with suspicious files and to seek professional help if they suspect a ransomware infection.",
+        "summary": "An old ransomware strain, Win32.Rannoh, has been identified, which renames files with a random 4-letter extension, causing confusion among users.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817720/old-ransomware-locked-originalfilenamejpgrandom-4-letter-ext-win32rannoh/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-03 17:17"
+    },
+    {
+        "title": "Mysterious Ransomware Strain Identified as Win32.Rannoh",
+        "content": "A peculiar case of ransomware infection has been reported, where files are being encrypted with a random four-letter extension. The affected files are renamed to 'locked-orig_filename.jpg' followed by a four-character code. This strain of malware has been identified as Win32.Rannoh, an older variant of ransomware. The issue was brought to light by a user seeking assistance on a tech support forum, who claimed to have received the infected files from an unknown source. The user's lack of technical expertise made it challenging for them to comprehend the nature of the infection. Fortunately, the incident has been documented on a reputable online platform, BleepingComputer, which provides a wealth of information on ransomware and other cyber threats.",
+        "summary": "An old ransomware strain, known as Win32.Rannoh, has been discovered, which appends a random four-letter extension to encrypted files.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817720/old-ransomware-locked-orig-filenamejpgrandom-4-letters-win32rannoh/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-03 17:17"
+    },
+    {
+        "title": "Mysterious Ransomware Strain Identified with Unusual File Extensions",
+        "content": "A peculiar case of ransomware has come to light, where infected files are being appended with a random four-letter extension, but without any ransom demand. This unusual strain of malware has left experts intrigued, as it deviates from the typical ransomware modus operandi of demanding payment in exchange for the decryption key. The affected files, which appear to have been compromised in the past, are now being analyzed to determine the origins and intentions of this enigmatic malware. The lack of a ransom note or any form of communication from the attackers has added to the mystery, leaving victims and researchers alike searching for answers. As the investigation unfolds, it remains to be seen whether this strain is an isolated incident or a precursor to a larger, more complex threat.",
+        "summary": "A mysterious ransomware strain has been identified, characterized by its unusual file extensions and lack of ransom demands, leaving experts to ponder its origins and intentions.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817720/old-ransomware-locked-originalfilenamejpgrandom-4-letter-extension-no-ransom/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-03 17:17"
+    },
+    {
+        "title": "Lockbit 3.0 Black Ransomware Spreads with Unique Encryption Tactics",
+        "content": "A newly identified strain of ransomware, known as Lockbit 3.0 Black, has been reported to be infecting systems with a distinct method of file encryption. The malware appends a random 9-character alpha-numerical extension to compromised files, accompanied by a ransom note bearing the same character sequence in its filename. This variation of the Lockbit ransomware family is notable for its unpredictable naming conventions, making it challenging for victims to identify and mitigate the attack. According to recent reports, the attackers are using the email address lockbit_black@zohomail.com for communication, further solidifying the connection to the Lockbit 3.0 Black ransomware strain. As the threat landscape continues to evolve, it is essential for individuals and organizations to remain vigilant and proactive in protecting their digital assets from such emerging threats.",
+        "summary": "Lockbit 3.0 Black ransomware is spreading with unique file encryption methods, appending random characters to files and ransom notes, and using a specific email address for communication.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817714/unk-ransomware-zwk3zjiox-ext;-lockbit-blackzohomailcom-lockbit-30-black/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-03 17:17"
+    },
+    {
+        "title": "Mysterious Ransomware Strain Leaves Experts Baffled, Victims Seeking Assistance",
+        "content": "A recent ransomware infection has been reported, with the victim reaching out for help in identifying the strain and potentially finding a decryptor to recover their encrypted files. Despite attempts to identify the ransomware using online tools such as ID Ransomware, the specific type of malware remains unknown. The victim has sought assistance from the cybersecurity community, hoping that experts can provide guidance on how to proceed. The case highlights the ongoing threat of ransomware and the need for continued vigilance and support for those affected by these types of attacks.",
+        "summary": "A ransomware victim is seeking help in identifying the strain of malware that infected their system and finding a potential decryptor, after online tools were unable to determine the type of ransomware",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817715/unknown-ransomware-unable-to-identify-need-help-finding-familydecryptor/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-03 17:17"
+    },
+    {
+        "title": "Mysterious Ransomware Strain Identified with .ZWk3zJiOX Extension",
+        "content": "A newly discovered ransomware variant has been detected, leaving files encrypted with the .ZWk3zJiOX extension. In some cases, the malicious software appends a double extension, .ZWk3zJiOX.ZWk3zJiOX, to the affected files. The ransomware, which is currently unknown, has been linked to the email address lockbit_black@zohomail.com. Victims of the attack are seeking assistance in identifying the infection and potentially obtaining a decryptor to restore access to their compromised data.",
+        "summary": "A new ransomware strain with the .ZWk3zJiOX extension has been identified, and victims are searching for a decryptor to recover their encrypted files.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817714/unknown-ransomware-zwk3zjiox-extension-lockbit-blackzohomailcom/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-03 17:17"
     }
 ]
