@@ -1608,5 +1608,25 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-03 21:52"
+    },
+    {
+        "title": "Mysterious Ransomware Strain 'jiOqJ8CXx' Targets Computer Files",
+        "content": "A newly discovered ransomware infection, identified by the extension '.jiOqJ8CXx', has been reported to be affecting computer systems. The victim, who has come forward seeking assistance, has been assigned a unique ID 'a33dae3sdf1527hq1'. This malicious software is known to encrypt files, rendering them inaccessible to the user. The infected individual is reaching out for help in decrypting their files or identifying the specific strain of ransomware. The incident has been documented on online forums, where experts and users collaborate to provide support and resources for those affected by such cyber threats.",
+        "summary": "A computer user is seeking help after falling victim to a ransomware infection, which has encrypted their files with the '.jiOqJ8CXx' extension.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817734/ransomware-infection-jioqj8cxx/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-04 07:48"
+    },
+    {
+        "title": "OpenAI Unveils Astra: A Revolutionary AI Model with Groundbreaking Math Solutions",
+        "content": "In a significant breakthrough, OpenAI has introduced its latest AI model, Astra, which has successfully solved 10 long-standing math problems. This unprecedented achievement demonstrates Astra's capabilities in tackling complex and time-consuming tasks. The model's internal version has produced substantial advances in mathematics and theoretical computer science, showcasing its potential to drive innovation in various fields. With Astra, OpenAI aims to push the boundaries of artificial intelligence and explore new frontiers in problem-solving.",
+        "summary": "OpenAI's new AI model, Astra, has solved 10 long-standing math problems, demonstrating its capabilities in complex problem-solving and paving the way for future innovations.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-04 07:48"
     }
 ]
