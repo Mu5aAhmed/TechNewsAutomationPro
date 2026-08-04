@@ -1628,5 +1628,25 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-04 07:48"
+    },
+    {
+        "title": "Massive Data Breach Hits UK Police Database, Exposing Sensitive Information",
+        "content": "A recent cyberattack on the UK's Police National Legal Database has resulted in the compromising of contact information for over 100,000 police officers and other professionals within the criminal justice system. This significant data breach has raised concerns about the potential consequences for those affected, including increased risk of harassment, identity theft, and other forms of exploitation. The incident is a stark reminder of the importance of robust cybersecurity measures to protect sensitive information. An investigation into the breach is likely to be conducted to determine the extent of the damage and identify the perpetrators. The hacking group responsible for the attack, known as ExfilSquad, has reportedly leaked the stolen data, further exacerbating the situation.",
+        "summary": "A cyberattack on the UK's Police National Legal Database has compromised the contact information of over 100,000 police officers and staff, highlighting the need for enhanced cybersecurity measures.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-04 16:21"
+    },
+    {
+        "title": "Lockbit 3.0 Black Ransomware Infection Spreads, Victims Seek Decryption Help",
+        "content": "A recent outbreak of ransomware infections has been identified, with victims reporting files encrypted with random 9-character alpha-numerical extensions and ransom notes bearing the same naming convention. The malware, known as Lockbit 3.0 Black, has been linked to a significant number of infections, leaving users searching for decryption tools and support. According to reports, the ransomware appends a unique 9-character extension to encrypted files and drops a corresponding README.txt file with the same name. Experts believe that the infection may be part of a larger campaign, with multiple victims coming forward to seek assistance. The Lockbit 3.0 Black ransomware is a notorious strain, known for its ability to evade detection and encrypt files quickly. As the situation continues to unfold, affected users are advised to seek professional help and refrain from engaging with the attackers.",
+        "summary": "The Lockbit 3.0 Black ransomware has been identified as the culprit behind a string of recent infections, with victims reporting encrypted files and ransom demands. Experts are working to provide decryption tools and support to those affected.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817734/ransomware-infection-jioqj8cxx-lockbit-30-black/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-04 16:21"
     }
 ]
