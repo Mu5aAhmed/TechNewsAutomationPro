@@ -1718,5 +1718,25 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-05 06:15"
+    },
+    {
+        "title": "Ransomware Alert: Lockbit 3.0 Black Strikes, Demanding Payment for File Restoration",
+        "content": "A recent report has surfaced of a computer system being infected with the notorious Lockbit 3.0 Black ransomware. This malicious software has encrypted the system's files and is now demanding payment in exchange for the decryption key. The ransom note, which is similar to those associated with Lockbit 3.0 Black variants, serves as a warning to victims that their data will remain inaccessible unless the demanded payment is made. Experts warn that paying the ransom does not guarantee file restoration and may even encourage further malicious activity. As the threat of ransomware continues to grow, it is essential for individuals and organizations to prioritize robust cybersecurity measures to protect against such attacks.",
+        "summary": "Lockbit 3.0 Black ransomware has infected a computer system, encrypting files and demanding payment for decryption, highlighting the need for enhanced cybersecurity measures.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817740/help-i-have-ransomware-lockbit-30-black/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-05 13:19"
+    },
+    {
+        "title": "Mysterious Ransomware Strain Targets Windows PC via Phishing Email",
+        "content": "A recent incident of ransomware infection has been reported, where a Windows PC was compromised through a fake Samsung phishing email. The email, disguised as a legitimate update notification, tricked the user into opening a malicious popup, resulting in the encryption of .xlsx files. Notably, the ransomware did not leave a ransom note, and instead, demands a 'family ID' from the victim. The attack highlights the growing threat of phishing emails and the importance of exercising caution when interacting with suspicious online content.",
+        "summary": "A Windows PC was infected with an unidentified ransomware strain after a user clicked on a fake Samsung update popup from a phishing email, leading to the encryption of .xlsx files without a ransom note.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817751/unidentified-ransomware-no-note-encrypted-xlsx-need-family-id/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-05 13:19"
     }
 ]
