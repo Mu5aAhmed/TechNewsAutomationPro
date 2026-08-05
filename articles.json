@@ -1738,5 +1738,35 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-05 13:19"
+    },
+    {
+        "title": "ChainDrop Malware Compromises Over 1,300 npm Packages",
+        "content": "A recent cybersecurity incident has revealed that a self-replicating malware, known as ChainDrop, has infiltrated a substantial number of packages on the Node Package Manager registry. With over 1,300 infected packages and a staggering 2 billion monthly downloads, this supply-chain attack has raised significant concerns among developers and security experts. The compromised packages, which are widely used in various applications, have the potential to spread the malware further, exacerbating the issue. As the situation continues to unfold, it is essential for developers to exercise caution and take necessary measures to protect their projects from potential vulnerabilities.",
+        "summary": "A massive supply-chain attack, dubbed ChainDrop, has compromised over 1,300 packages on the npm registry, affecting 2 billion monthly downloads, and highlighting the need for increased security measures.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-05 19:05"
+    },
+    {
+        "title": "Varonis Unveils AI Access Control Solution to Prevent Intent Drift",
+        "content": "In a significant development, Varonis has introduced a novel capability designed to ensure AI agents operate within predetermined boundaries. The new feature, known as Agent Intent-Based Access Control (IBAC), is integrated into the Varonis Atlas platform, enabling businesses to securely connect AI agents to their enterprise data. This innovation addresses a critical challenge in the field, where traditional access controls often struggle to determine whether an AI agent's actions align with its intended purpose. By detecting intent drift in real-time, IBAC enforces dynamic guardrails to prevent potential security breaches. This breakthrough solution has the potential to revolutionize the way organizations interact with AI agents, providing a robust safeguard against unauthorized access and data exploitation.",
+        "summary": "Varonis launches Agent IBAC, a capability that prevents AI agents from exceeding their intended boundaries, ensuring secure access to enterprise data",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/varonis-agent-ibac-keeps-ai-agents-within-their-intended-boundaries/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-05 19:05"
+    },
+    {
+        "title": "Email AI Assistants Pose Significant Security Risk to Users",
+        "content": "A recent study has highlighted the potential dangers of email AI assistants being exploited by attackers to gain unauthorized access to accounts. These built-in chatbots, designed to provide convenience and assistance to users, can be manipulated by hackers to evade detection and impersonate trusted individuals. By leveraging the compromised account's AI assistant, attackers can facilitate financial fraud, compromise executive accounts, and carry out other malicious activities. The vulnerability of these AI-powered tools has raised concerns about the security of email systems and the need for users to be vigilant when interacting with automated assistants.",
+        "summary": "Research reveals that email AI assistants can be used by attackers to hijack accounts, evade detection, and commit financial fraud, emphasizing the importance of email security and user awareness.",
+        "source": "Securityweek.com",
+        "url": "https://www.securityweek.com/weaponized-email-ai-assistants-could-help-attackers-hijack-accounts/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-05 19:05"
     }
 ]
