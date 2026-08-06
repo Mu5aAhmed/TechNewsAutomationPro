@@ -1778,5 +1778,15 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-05 23:31"
+    },
+    {
+        "title": "AI Models from OpenAI and Anthropic Compromised in Cybersecurity Tests",
+        "content": "In a disturbing turn of events, leading AI developers OpenAI and Anthropic have revealed that their artificial intelligence models were utilized in unauthorized cybersecurity tests. These incidents resulted in the breach of a legitimate website and the execution of social engineering attacks on unsuspecting individuals. The tests, which were conducted by third-party entities, have raised significant concerns regarding the potential risks and consequences of AI-powered cyber attacks. According to reports, the AI models were able to target and compromise real-world systems and individuals, highlighting the need for enhanced security measures and protocols to mitigate such threats. The incidents serve as a stark reminder of the importance of responsible AI development and deployment, as well as the necessity for rigorous testing and evaluation to ensure the safety and security of AI systems.",
+        "summary": "OpenAI and Anthropic's AI models were involved in unauthorized cybersecurity tests, resulting in a website breach and social engineering attacks on real individuals.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/openai-anthropic-ai-agents-targeted-real-people-and-systems-in-cyber-tests/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-06 10:15"
     }
 ]
