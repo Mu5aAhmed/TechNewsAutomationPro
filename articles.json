@@ -1788,5 +1788,75 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-06 10:15"
+    },
+    {
+        "title": "Ransomware Mastermind Receives 16-Year Prison Sentence",
+        "content": "In a significant blow to cybercrime, the individual behind the notorious Ransom Cartel ransomware operation has been sentenced to 16 years in prison. This conviction is a result of the perpetrator's involvement in a string of ransomware attacks that targeted at least 18 companies globally, causing widespread disruption and financial loss. The sentence serves as a deterrent to others who engage in similar malicious activities, emphasizing the serious consequences of such crimes. The Ransom Cartel operation was known for its sophisticated tactics, highlighting the evolving nature of cyber threats and the need for robust cybersecurity measures.",
+        "summary": "The creator of the Ransom Cartel ransomware has been sentenced to 16 years in prison for attacks on 18 companies worldwide, marking a significant victory against cybercrime.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/ransom-cartel-ransomware-creator-sentenced-to-16-years-in-prison/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-07 01:53"
+    },
+    {
+        "title": "Canadian National Admits to Orchestrating Massive Cloud Data Heist",
+        "content": "In a significant development, a Canadian individual has pleaded guilty to playing a crucial role in a large-scale data theft operation. The scheme, which targeted the cloud storage provider Snowflake, resulted in the unauthorized access of company accounts and the theft of sensitive data from at least 165 organizations. The perpetrator's goal was to extort millions of dollars from the affected entities. This guilty plea sheds light on the increasing threat of cloud-based cyberattacks and the importance of robust security measures to protect sensitive information. The case highlights the need for organizations to be vigilant and proactive in safeguarding their data in the cloud.",
+        "summary": "A Canadian man has pleaded guilty to his role in a massive data theft operation targeting Snowflake cloud storage, affecting at least 165 organizations.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/canadian-pleads-guilty-to-snowflake-cloud-data-theft-attacks/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-07 01:53"
+    },
+    {
+        "title": "Corporate Network Breached: Hackers Utilize Oracle Database to Deploy Malicious Toolkit",
+        "content": "A recent incident has come to light where hackers successfully exploited a vulnerability in a corporate network by leveraging a SQL injection flaw in an Oracle database. This allowed them to install a post-exploitation toolkit, enabling them to gain further access and control within the network. The discovery of this breach highlights the importance of robust database security measures to prevent such attacks. According to reports, the attackers were able to use the Oracle database as a conduit to launch their malicious operations, underscoring the need for enhanced vigilance in protecting sensitive data and systems.",
+        "summary": "Hackers have breached a corporate network by exploiting a SQL injection vulnerability in an Oracle database, using it to deploy a post-exploitation toolkit and gain further network access.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-07 01:53"
+    },
+    {
+        "title": "Bitcoin Users Targeted in Sophisticated Phishing Scam Amid COLDCARD Wallet Vulnerability",
+        "content": "A recent security audit has uncovered a phishing campaign that preys on the concerns of COLDCARD wallet users, who are already reeling from a suspected $88.6 million Bitcoin heist. The scam exploits the fears surrounding a newly disclosed vulnerability in the COLDCARD wallet, tricking users into installing malicious remote access software. This software, known as ScreenConnect, allows attackers to gain unauthorized access to the victim's device, potentially leading to further financial losses. The phishing campaign highlights the growing threat of cyber attacks in the cryptocurrency space, where users are often targeted with sophisticated scams designed to exploit their fears and vulnerabilities.",
+        "summary": "A phishing campaign is targeting COLDCARD wallet users, exploiting fears over a recent vulnerability and suspected $88.6 million Bitcoin theft to install remote access software.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-07 01:53"
+    },
+    {
+        "title": "US Cyber Agency Issues Urgent Warning Over Actively Exploited Vulnerabilities",
+        "content": "The US Cybersecurity and Infrastructure Security Agency has issued a high-priority alert to federal agencies, urging them to take immediate action to address critical vulnerabilities in several widely used software products. The affected products include IBM Langflow, N-central, and Apache Tomcat, all of which have been found to be actively exploited by hackers. Federal agencies have been given a tight deadline of just three days to mitigate these vulnerabilities and prevent potential cyber attacks. The warning highlights the growing concern over the exploitation of software flaws by malicious actors, emphasizing the need for prompt action to protect sensitive information and prevent disruption to critical systems.",
+        "summary": "The US Cybersecurity and Infrastructure Security Agency warns federal agencies to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat within three days to prevent cyber attacks.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-07 01:53"
+    },
+    {
+        "title": "Massive Blogger Lockout: Google Flags Hundreds of Sites for Malware",
+        "content": "In a shocking turn of events, Google's Blogger platform has mistakenly flagged hundreds of websites for allegedly violating its malware policy, resulting in widespread lockouts and even deletions. This incident highlights the potential pitfalls of automated content moderation, where false positives can have severe consequences for innocent users. According to reports, the lockout has affected numerous Blogger sites, with some being completely removed from the platform. This move has raised concerns among bloggers and website owners, who are now calling for more transparency and accountability in Google's content moderation processes.",
+        "summary": "Google's Blogger platform has locked out hundreds of websites due to a false positive malware detection, resulting in site deletions and raising concerns over content moderation",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-07 01:53"
+    },
+    {
+        "title": "The Rise of AI-Driven Phishing: Why Blocklists Are No Longer Effective",
+        "content": "The increasing use of artificial intelligence by cyber attackers has rendered traditional blocklists ineffective in combating phishing campaigns. As AI-powered tools enable attackers to create and dismantle phishing infrastructure at an unprecedented rate, browser-level detection methods are emerging as a more reliable means of defense. According to security experts, the rapid evolution of phishing toolkits and the brief lifespan of phishing domains have outpaced the capabilities of blocklists, which are struggled to keep up with the ever-changing landscape. As a result, a more proactive approach to phishing detection, focusing on techniques rather than domains, is being advocated as a more durable solution.",
+        "summary": "AI-driven phishing campaigns are outsmarting traditional blocklists, prompting a shift towards browser-level detection methods",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-07 01:53"
     }
 ]
