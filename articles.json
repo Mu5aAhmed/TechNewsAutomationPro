@@ -1908,5 +1908,25 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-07 17:36"
+    },
+    {
+        "title": "OpenAI Unveils Significant ChatGPT Upgrade for All Users",
+        "content": "In a notable development, OpenAI has announced a major upgrade to its ChatGPT platform, benefiting both paid and free users. The company is introducing a more stable version of ChatGPT, dubbed GPT-5.6 Sol, exclusively for Plus and Pro subscribers. Meanwhile, users who opt for the free version will now have access to unlimited text conversations with GPT-5.6 Luna, marking a significant enhancement to the free tier. This move underscores OpenAI's commitment to improving the overall ChatGPT experience, regardless of subscription status.",
+        "summary": "OpenAI rolls out a significant ChatGPT upgrade, offering a more reliable version for paid users and unlimited text chats for free users.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-rolls-out-a-major-chatgpt-upgrade-even-if-you-dont-pay-for-it/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-07 23:06"
+    },
+    {
+        "title": "Cyberattacks on Financial Institutions Linked to Notorious Extortion Group",
+        "content": "A recent surge in cyberattacks targeting hedge funds, private equity firms, and other financial organizations has been attributed to a notorious extortion group known as UNC6671. This group is reportedly connected to the BlackFile campaign, a well-known extortion collective. The attacks have raised concerns among financial institutions, highlighting the need for robust cybersecurity measures to protect sensitive information. According to reports, UNC6671 has been implicated in a string of high-profile cyberattacks, leveraging sophisticated tactics to compromise the security of its targets. As the financial sector continues to be a prime target for cybercriminals, it is essential for organizations to remain vigilant and proactive in their cybersecurity efforts.",
+        "summary": "A recent wave of cyberattacks on financial institutions has been linked to the UNC6671 extortion group, associated with the BlackFile campaign, highlighting the need for robust cybersecurity measures.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/hedge-fund-cyberattacks-tied-to-blackfile-linked-unc6671-extortion-group/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-07 23:06"
     }
 ]
