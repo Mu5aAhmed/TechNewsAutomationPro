@@ -1958,5 +1958,15 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-08 14:06"
+    },
+    {
+        "title": "Levi Strauss & Co. Falls Victim to Cyberattack, Corporate Data Stolen",
+        "content": "In a recent cyberattack, renowned clothing manufacturer Levi Strauss & Co. has revealed that hackers successfully breached its systems by exploiting its employees. The attackers utilized social engineering tactics to deceive three employees, ultimately gaining unauthorized access to corporate data stored on their devices. As a result, sensitive information was stolen, highlighting the growing concern of cybersecurity threats in the industry. The company has come forward to disclose the incident, emphasizing the importance of robust security measures to protect against such attacks.",
+        "summary": "Levi Strauss & Co. has been targeted by a cyberattack, resulting in the theft of corporate data after hackers used social engineering to deceive employees.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/levi-strauss-and-co-says-hackers-stole-corporate-data-in-cyberattack/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-08 16:01"
     }
 ]
