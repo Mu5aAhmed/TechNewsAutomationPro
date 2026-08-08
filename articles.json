@@ -1928,5 +1928,35 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-07 23:06"
+    },
+    {
+        "title": "Cyber Threats Escalate: Attackers Exploit Legitimate Accounts and Browser Settings",
+        "content": "A recent report has shed light on the evolving tactics of cyber attackers, who are increasingly leveraging compromised business email accounts and manipulating browser settings to carry out sophisticated malware campaigns. In the first half of 2026, two distinct attack chains were identified, highlighting the adaptability and cunning of these threat actors. One campaign involved the use of hijacked business inboxes to spread banking malware, while another exploited clipboard hijacking to redirect cryptocurrency payments. These attacks underscore the importance of robust cybersecurity measures, as attackers continue to exploit vulnerabilities in legitimate accounts and browser settings to achieve their malicious goals.",
+        "summary": "Cyber attackers are using compromised business email accounts and browser manipulation to launch targeted malware campaigns, including banking malware and cryptocurrency payment redirection.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/real-emails-hijacked-payments-two-h1-2026-attack-chains/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-08 14:06"
+    },
+    {
+        "title": "Cyberattack Disrupts Operations at North Carolina Ports",
+        "content": "A recent cyberattack has confirmed to have disrupted the IT systems of the North Carolina Ports Authority, resulting in slowed operations at several major ports. The affected ports include the Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. This incident has highlighted the growing concern of cybersecurity threats in the maritime industry. The North Carolina Ports Authority has acknowledged the attack and is working to resolve the issue. The disruption has impacted the normal functioning of the ports, causing delays and inefficiencies in their operations.",
+        "summary": "The North Carolina Ports Authority has been hit by a cyberattack, disrupting IT systems and slowing operations at multiple ports.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-08 14:06"
+    },
+    {
+        "title": "Multicloud Security Experts in India: Top Providers for Strategy and Tool Integration",
+        "content": "As businesses increasingly adopt multicloud strategies, the need for expert security providers has become more pressing. In India, several providers have emerged as leaders in multicloud security strategy and tool integration. When evaluating these providers, it's essential to consider their hands-on experience with various cloud environments and their ability to integrate security tools seamlessly. By assessing their expertise and capabilities, organizations can ensure the security and integrity of their multicloud infrastructure. With the rise of cloud computing, securing data and applications across multiple cloud platforms has become a complex challenge, and partnering with the right provider can make all the difference.",
+        "summary": "Indian businesses looking for multicloud security strategy and tool integration can evaluate top providers based on their experience and capabilities",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817797/which-providers-are-experts-in-multicloud-security-strategy-and-tool-integration/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-08 14:06"
     }
 ]
