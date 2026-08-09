@@ -1988,5 +1988,15 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-09 04:47"
+    },
+    {
+        "title": "LastPass Users Encounter Login Issues with New Accounts",
+        "content": "A recent issue has been reported with LastPass, a popular password management tool, where users are unable to create new logins for certain accounts. The problem arises when attempting to use LastPass in Google Chrome to generate a new login, resulting in an unresponsive dialog box. Fortunately, some users have found a workaround by conducting online searches and implementing alternative solutions. The issue has been discussed on online forums, including BleepingComputer, where users have shared their experiences and findings. The exact cause of the problem is unclear, but it appears to be related to compatibility issues between LastPass and certain websites or browsers.",
+        "summary": "LastPass users are experiencing difficulties creating new logins for certain accounts, with some finding workarounds through online searches.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817807/lastpass-not-accepted-new-login-then-not-response-whn-try-again/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-09 07:58"
     }
 ]
