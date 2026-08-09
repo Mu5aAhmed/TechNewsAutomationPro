@@ -1998,5 +1998,25 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-09 07:58"
+    },
+    {
+        "title": "New Ransomware Strain Emerges with .ba3 Extension, Linked to Proton/Shinra",
+        "content": "A recently discovered ransomware variant, identified as Proton/Shinra, has been found to encrypt files with a .ba3 extension. This strain of malware renames the original filename with a random 10-character string, followed by an additional extension appended to the encrypted data. Despite efforts to combat the infection using Defender and Malwarebytes, victims have reported limited success. The Proton/Shinra Ransomware V2 appears to be a sophisticated threat, with affected users struggling to find effective solutions. The emergence of this new strain highlights the ongoing evolution of ransomware and the need for robust cybersecurity measures.",
+        "summary": "A new ransomware variant, Proton/Shinra, has been detected, encrypting files with a .ba3 extension and renaming the original filename with a random string.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817813/ransomware-with-ba3-extension-protonshinra/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-09 12:01"
+    },
+    {
+        "title": "Mysterious Ransomware Strain 'ba3' Emerges, Encrypts Files with Unique Extension",
+        "content": "A newly discovered ransomware strain, identified by its distinctive '.ba3' file extension, has been reported to be infecting computers worldwide. Despite efforts to combat the malware using popular antivirus software such as Windows Defender and Malwarebytes, victims have found that these tools are ineffective in detecting and removing the threat. The ransomware, which has been discussed on online forums including BleepingComputer, appears to be a previously unknown variant that is capable of evading common security measures. As a result, affected users are being forced to seek alternative solutions to recover their encrypted files. The emergence of this new ransomware strain highlights the ongoing threat posed by cybercriminals and the need for individuals and organizations to remain vigilant in protecting their digital assets.",
+        "summary": "A new ransomware strain with a unique '.ba3' file extension has been discovered, infecting computers and evading detection by popular antivirus software.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817813/ransomware-ba3/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-09 12:01"
     }
 ]
