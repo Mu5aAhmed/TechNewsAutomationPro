@@ -2128,5 +2128,15 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-11 19:46"
+    },
+    {
+        "title": "WordPress Web-Design Tools Compromised in Supply-Chain Hack",
+        "content": "A recent cyber attack has targeted BdThemes, a prominent developer of premium WordPress web-design tools. The threat actor managed to infiltrate the company's upstream infrastructure, allowing them to manipulate a remote JSON feed that is delivered to administrators' browsers. This modification resulted in the creation of rogue admin accounts, posing a significant security risk to users. The hack is a prime example of a supply-chain attack, where a vulnerability in one part of the supply chain is exploited to compromise downstream users. In this case, the attackers were able to leverage their access to BdThemes' infrastructure to push malicious updates to unsuspecting administrators.",
+        "summary": "A supply-chain hack has compromised BdThemes, a developer of premium WordPress web-design tools, resulting in the creation of rogue admin accounts and posing a significant security risk to users.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-11 22:24"
     }
 ]
