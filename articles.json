@@ -2048,5 +2048,15 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-09 16:03"
+    },
+    {
+        "title": "Belgian eID Software Exposed: Millions of Users Affected by Critical Security Flaws",
+        "content": "A recent discovery by a security researcher at DEF CON has uncovered severe vulnerabilities in the Connective digital identity system, a browser extension utilized by over two million individuals in Belgium. The affected software is used by eight of the country's ten largest banks and more than 60 government agencies, highlighting the potential risk to sensitive user data. Fortunately, the vulnerabilities have been resolved, but the incident serves as a reminder of the importance of robust security measures in digital identity systems. The Connective digital identity system is a crucial component of Belgium's online infrastructure, and the vulnerabilities could have had significant consequences if exploited.",
+        "summary": "Critical security flaws were discovered in the Connective digital identity system, a browser extension used by over two million people in Belgium, but have since been resolved.",
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/critical-flaws-discovered-in-belgian-eid-software-used-by-2-million-people/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-11 04:50"
     }
 ]
