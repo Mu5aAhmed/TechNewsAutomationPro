@@ -2058,5 +2058,55 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-11 04:50"
+    },
+    {
+        "title": "Ransomware Groups Target SonicWall SMA1000 Vulnerabilities",
+        "content": "The Cybersecurity and Infrastructure Security Agency (CISA) has warned that recently discovered vulnerabilities in SonicWall's SMA1000 series are being actively exploited by ransomware gangs. These vulnerabilities, which include a severe server-side request forgery flaw, were patched recently but it appears that malicious actors have already begun to take advantage of them. This development highlights the importance of prompt patching and robust cybersecurity measures to protect against such threats. As ransomware groups continue to evolve and exploit known vulnerabilities, it is crucial for organizations to stay vigilant and ensure their systems are up to date with the latest security fixes.",
+        "summary": "CISA confirms ransomware gangs are exploiting patched SonicWall SMA1000 vulnerabilities, emphasizing the need for timely security updates.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-sonicwall-sma1000-flaws-now-exploited-by-ransomware-gangs/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-11 15:30"
+    },
+    {
+        "title": "Rethinking Identity Security: The Rise of Device Trust in the Age of AI",
+        "content": "The increasing sophistication of artificial intelligence is rendering traditional identity security measures obsolete. Phishing, credential theft, and social engineering attacks are becoming more efficient and harder to detect, while conventional trust signals such as passwords, multi-factor authentication, and geolocation are being easily bypassed. As a result, organizations are being forced to reevaluate their approach to identity security and consider more robust solutions. Device trust is emerging as a key component of this new approach, allowing organizations to verify the integrity and security of devices before granting access to sensitive resources. This shift towards device trust is driven by the need for more effective and resilient security measures that can keep pace with the evolving threat landscape.",
+        "summary": "The growing threat of AI-powered attacks is driving organizations to adopt more robust identity security measures, including device trust, to protect against phishing, credential theft, and social engineering.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/when-credentials-are-no-longer-enough-device-trust-in-the-ai-era/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-11 15:30"
+    },
+    {
+        "title": "Cybercrime Collective Member Receives Prison Sentence for Exploiting Minors",
+        "content": "In a significant crackdown on online cybercrime, a key figure associated with a notorious collective known for targeting vulnerable minors has been handed a two-year prison term. The individual's crimes involved blackmail and sextortion, affecting a substantial number of young victims globally. This collective, known for its loose organization, has been under scrutiny for its role in exploiting children and teenagers through various online means. The sentencing marks a crucial step in the ongoing effort to combat such cybercrimes and protect the online safety of minors. The case highlights the importance of international cooperation in tackling these issues, as the offenses were committed against nearly 120 victims worldwide.",
+        "summary": "A member of a cybercrime collective has been sentenced to prison for blackmail and sextortion offenses against nearly 120 minor victims worldwide.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/member-of-the-com-sent-to-prison-for-blackmail-sextortion/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-11 15:30"
+    },
+    {
+        "title": "Steam Hardware Customers in Europe Affected by Data Breach",
+        "content": "A recent cyber attack on CEVA Logistics, a shipping partner of Valve, has resulted in the theft of personal data belonging to Steam hardware customers in Europe. Valve, a leading video game publisher and digital distribution company, is currently notifying affected customers of the breach. The incident highlights the potential risks associated with third-party vendors and the importance of robust security measures to protect sensitive customer information. As the situation unfolds, Valve is likely to face increased scrutiny over its handling of customer data and its relationships with external partners.",
+        "summary": "Valve is notifying Steam hardware customers in Europe of a data breach after its shipping partner, CEVA Logistics, was hacked, resulting in the theft of customer data.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/valve-notifies-steam-hardware-customers-of-a-data-breach/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-11 15:30"
+    },
+    {
+        "title": "US Water Facilities Face Growing Cyber Threats as New Jersey and Alabama Report Attacks",
+        "content": "A recent wave of cyberattacks has targeted water and wastewater facilities across the United States, with New Jersey and Alabama being the latest states to confirm they have been affected. The hacking campaign, which is believed to have started in late July, has impacted at least a dozen states, with the attackers focusing on industrial control systems (ICS) at these facilities. The attackers, who have been linked to Iran, have raised concerns about the vulnerability of critical infrastructure in the US to cyber threats. As the number of affected states continues to grow, officials are warning of the potential risks to public health and safety, and highlighting the need for increased cybersecurity measures to protect these facilities.",
+        "summary": "New Jersey and Alabama have joined the list of US states targeted in a hacking campaign affecting water and wastewater facilities, with at least 12 states impacted so far.",
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/new-jersey-alabama-join-states-targeted-in-water-cyberattacks/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-11 15:30"
     }
 ]
