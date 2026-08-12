@@ -2158,5 +2158,25 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-12 09:46"
+    },
+    {
+        "title": "Ransomware Attacks Exploit Critical Microsoft SharePoint Vulnerability",
+        "content": "A severe remote code execution flaw in Microsoft SharePoint has been compromised by ransomware groups, according to a recent confirmation by the Cybersecurity and Infrastructure Security Agency (CISA). This high-severity vulnerability, which has been under active exploitation since early July, allows attackers to execute malicious code remotely. The vulnerability has significant implications for organizations relying on Microsoft SharePoint, as it can be leveraged to gain unauthorized access and deploy ransomware. CISA's warning underscores the urgent need for companies to patch this vulnerability and bolster their defenses against potential ransomware attacks.",
+        "summary": "Ransomware gangs are exploiting a critical Microsoft SharePoint vulnerability, prompting warnings from CISA to patch the flaw and prevent attacks.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-flaw-now-exploited-in-ransomware-attacks/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-12 12:35"
+    },
+    {
+        "title": "Global Alert Issued Over Gunra Ransomware Threat to Government Agencies",
+        "content": "A joint warning has been issued by US federal agencies and South Korea's National Policy Agency, urging government and critical infrastructure organizations globally to bolster their defenses against the emerging Gunra ransomware threat. This alert comes as part of a broader effort to protect sensitive systems from cyberattacks. The warning emphasizes the importance of robust cybersecurity measures to prevent and mitigate the impact of such attacks. With the increasing sophistication of ransomware attacks, governments and critical infrastructure providers are advised to review and enhance their security protocols to safeguard against potential breaches.",
+        "summary": "US and South Korean authorities warn of Gunra ransomware attacks targeting government and critical infrastructure organizations, advising them to secure their systems.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-12 12:35"
     }
 ]
