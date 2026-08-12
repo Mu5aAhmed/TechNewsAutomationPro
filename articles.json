@@ -2198,5 +2198,15 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-12 16:11"
+    },
+    {
+        "title": "Ransomware Operation Employs Blockchain Technology to Thwart Takedown Efforts",
+        "content": "A recent development in the realm of cybersecurity has seen the emergence of a sophisticated ransomware operation, leveraging decentralized infrastructure and blockchain-backed services to safeguard its communication channels and data-leak activities. This approach enables the threat actors to maintain a resilient presence, making it increasingly challenging for authorities to dismantle their operations. By utilizing blockchain technology, the perpetrators can ensure a persistent and secure means of interacting with their victims, ultimately rendering traditional takedown methods less effective.",
+        "summary": "A ransomware operation is utilizing blockchain-backed services to protect its infrastructure, making it harder to take down",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-12 23:21"
     }
 ]
