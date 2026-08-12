@@ -2138,5 +2138,15 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-11 22:24"
+    },
+    {
+        "title": "Polish Energy Facility Falls Prey to Sophisticated Cyber Attack",
+        "content": "A recent revelation has brought to light a significant cyber breach that occurred at a Polish energy plant last year. The attackers exploited a vulnerability in the plant's private Access Point Name (APN) to gain unauthorized access to the Operational Technology (OT) network. This network is crucial for the day-to-day operations of the facility, which provides essential heating services to approximately 50,000 residents. The breach is part of a series of destructive cyberattacks that targeted Poland's energy sector, highlighting the growing threat of cyber warfare in critical infrastructure. The attackers utilized a dedicated mobile gateway to compromise not just the initial target but also a second facility, underlining the sophistication and reach of the cyber assault.",
+        "summary": "A Polish energy plant was breached by hackers using a private APN to access the OT network, affecting heating services for 50,000 residents.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-12 05:17"
     }
 ]
