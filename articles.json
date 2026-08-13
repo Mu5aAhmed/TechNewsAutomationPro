@@ -2278,5 +2278,15 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-13 16:13"
+    },
+    {
+        "title": "Exploitation of SharePoint Vulnerability Begins Following Proof-of-Concept Release",
+        "content": "A recently patched SharePoint vulnerability has fallen prey to exploitation by malicious actors, with the first attacks surfacing shortly after a proof-of-concept exploit was made publicly available. The vulnerability in question was addressed by Microsoft in a July update, and the Cybersecurity and Infrastructure Security Agency (CISA) had cautioned that it posed a significant risk of being exploited in the wild. The swift nature of these attacks underscores the importance of prompt patching and highlights the cat-and-mouse game between vulnerability discovery, patching, and exploitation. As the situation unfolds, organizations are advised to ensure their systems are up-to-date with the latest security patches to mitigate potential risks.",
+        "summary": "A SharePoint vulnerability patched by Microsoft is being exploited after a proof-of-concept was released, prompting concerns over cybersecurity.",
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/sharepoint-vulnerability-exploited-shortly-after-poc-release/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-13 19:58"
     }
 ]
