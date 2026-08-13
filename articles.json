@@ -2288,5 +2288,25 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-13 19:58"
+    },
+    {
+        "title": "Android Malware Duo Steals Credit Card Information and Takes Out Loans",
+        "content": "A recently discovered Android malware combination is posing a significant threat to mobile device users. The malicious software, known as WindRelay, is being used in conjunction with the SpyNote remote administration tool to intercept and transmit sensitive credit card information to attackers in real-time. This sophisticated attack enables hackers to not only steal live card data but also use the stolen information to take out loans, further exacerbating the financial damage to victims. The malware's ability to relay credit card data via NFC has raised concerns about the security of contactless payment systems.",
+        "summary": "A new Android malware combo, consisting of WindRelay and SpyNote, is stealing credit card information and using it to take out loans, highlighting the need for enhanced mobile security measures.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-13 22:24"
+    },
+    {
+        "title": "Adobe Commerce Vulnerability Exploited by Hackers to Compromise Customer Accounts",
+        "content": "A critical flaw in Adobe's Commerce and Magento e-commerce platforms has been targeted by hackers, who are attempting to exploit the vulnerability to gain unauthorized access to customer accounts. The vulnerability, identified as CVE-2026-71362, poses a significant threat to the security of online stores and their customers. If successfully exploited, the flaw could allow attackers to hijack customer accounts, potentially leading to sensitive information theft and other malicious activities. The exploit attempts have been detected, highlighting the need for prompt action to patch the vulnerability and protect against potential attacks.",
+        "summary": "Hackers are exploiting a critical vulnerability in Adobe Commerce and Magento to hijack customer accounts, posing a significant threat to online store security.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-13 22:24"
     }
 ]
