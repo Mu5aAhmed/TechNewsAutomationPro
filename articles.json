@@ -2238,5 +2238,45 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-13 12:36"
+    },
+    {
+        "title": "Cyber Attack Hits Company Computer, Files Held for Ransom",
+        "content": "A recent cyber attack has compromised a company's computer system, resulting in the encryption of sensitive files. Despite the file extensions appearing unchanged, the affected files are no longer accessible. A ransom note was also discovered, suggesting that the attackers are demanding payment in exchange for the decryption key. The incident highlights the growing threat of ransomware attacks on businesses, emphasizing the need for robust cybersecurity measures. The company is currently seeking assistance to resolve the issue and recover their encrypted data.",
+        "summary": "A company's computer system has been hacked, leading to the encryption of files and a ransom demand from the attackers",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817876/company-computer-hacked;-files-encrypted/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-13 16:13"
+    },
+    {
+        "title": "North Korean Hackers Utilize Windows Exploit to Breach Defense Companies",
+        "content": "A recent cyber campaign, known as Operation Dream Job, has been uncovered, revealing that North Korean hackers have been leveraging a previously unknown Windows vulnerability to infiltrate defense-sector companies. The exploit, identified as CVE-2026-68820, has been used to gain unauthorized access to sensitive information. Microsoft has since issued a patch to address the vulnerability, mitigating the risk of further breaches. The Lazarus hacking group, believed to be sponsored by the North Korean government, has been linked to the Operation Dream Job campaign, which aims to compromise the security of defense firms and gather sensitive data.",
+        "summary": "North Korean hackers have been exploiting a Windows zero-day vulnerability to target defense companies, but Microsoft has issued a patch to address the issue.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/lazarus-hackers-exploited-windows-zero-day-to-target-defense-firms/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-13 16:13"
+    },
+    {
+        "title": "Mysterious Ransomware Strain Emerges with .hrr File Extension",
+        "content": "A newly discovered ransomware variant has been identified, characterized by its use of the .hrr file extension. This malicious software has been reported to target Synology network-attached storage (NAS) devices, resulting in partial encryption of files. The attack is accompanied by three ransom notes, including a file named READ_ME_UNLOCK_FILES.txt, which contains a brief message from the attackers. The ransomware incident was first reported on a tech support forum, where a user described the infection of their company's Synology NAS and the subsequent discovery of logs indicating the presence of the malware on one of the company's PCs. The emergence of this new ransomware strain highlights the ongoing threat of cyberattacks on businesses and individuals, emphasizing the importance of robust cybersecurity measures to prevent and respond to such incidents.",
+        "summary": "A new ransomware variant with the .hrr file extension has been discovered, targeting Synology NAS devices and demanding ransom in exchange for file decryption.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817555/unknown-ransomware-with-hrr-extension;-3-ransom-notes/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-13 16:13"
+    },
+    {
+        "title": "Cyber Threat Alert: Hackers Infiltrate Online Accounts to Pilfer Sensitive Content",
+        "content": "In a disturbing trend, the Federal Bureau of Investigation (FBI) has issued a warning that malicious actors are compromising online accounts, including social media profiles, to obtain explicit images and videos of both adults and minors. This egregious form of cybercrime has sparked concerns about the safety and security of personal data in the digital realm. As the FBI elaborated, the primary objective of these hackers is to exploit and steal sensitive visual content, which can have severe consequences for the victims, including emotional distress, reputational damage, and potential extortion. The law enforcement agency's alert serves as a reminder of the importance of robust online security measures, such as strong passwords, two-factor authentication, and vigilance when interacting with online platforms.",
+        "summary": "The FBI warns of a surge in cyber attacks targeting online accounts to steal explicit images and videos, highlighting the need for enhanced online security and awareness.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/fbi-warns-of-hackers-targeting-online-accounts-to-steal-explicit-photos/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-13 16:13"
     }
 ]
