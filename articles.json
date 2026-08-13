@@ -2218,5 +2218,25 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-13 05:50"
+    },
+    {
+        "title": "New Microsoft SharePoint Vulnerability Exploited by Hackers in Latest Attacks",
+        "content": "A recently disclosed critical vulnerability in Microsoft SharePoint has been swiftly exploited by hackers, following the release of a proof-of-concept exploit by cybersecurity firm Rapid7. This vulnerability, tracked as CVE-2026-55040, has been leveraged in attacks, highlighting the rapid pace at which cyber threats can evolve and spread. The exploit was made public on Tuesday, and its swift adoption by hackers underscores the importance of prompt patching and security updates to protect against such vulnerabilities. As the situation unfolds, it is crucial for organizations using Microsoft SharePoint to be vigilant and take necessary measures to secure their systems.",
+        "summary": "Hackers are exploiting a new Microsoft SharePoint vulnerability, using a proof-of-concept exploit published by Rapid7, emphasizing the need for swift security updates.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/microsoft/hackers-leverage-new-microsoft-sharepoint-exploit-in-attacks/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-13 12:36"
+    },
+    {
+        "title": "Signal Boosts Security with Automatic Key Verification Feature",
+        "content": "In a bid to enhance the security of its users' conversations, Signal has rolled out a new feature called Automatic Key Verification. This innovation is designed to provide an additional layer of protection against man-in-the-middle attacks, which can compromise the integrity of encrypted chats. By implementing this feature, Signal aims to give its users greater confidence in the security of their communications. The introduction of Automatic Key Verification is part of Signal's ongoing efforts to stay ahead of potential security threats and ensure that its platform remains a trusted and secure means of communication.",
+        "summary": "Signal introduces Automatic Key Verification to protect users from man-in-the-middle attacks and enhance the security of encrypted chats.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-13 12:36"
     }
 ]
