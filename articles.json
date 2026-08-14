@@ -2338,5 +2338,45 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-14 05:17"
+    },
+    {
+        "title": "Trezor Hardware Wallet Users Hit by Data Breach Affecting 14,000 Customers",
+        "content": "A recent cyber attack on ShipMonk, the shipping provider and logistics partner of Trezor, a prominent hardware wallet manufacturer, has resulted in a data breach impacting approximately 14,000 Trezor customers. The incident highlights the potential vulnerabilities that can arise from third-party partnerships. As a leading provider of secure cryptocurrency storage solutions, Trezor's customers rely on the company to safeguard their sensitive information. The breach is a significant concern for those affected, as it may have exposed personal data. Trezor has taken steps to disclose the breach and likely will be working to mitigate any potential damage and reassure its customer base. The company's transparency in this matter is crucial in maintaining trust with its users. This incident serves as a reminder of the importance of robust security measures, not only for companies but also for their partners and vendors.",
+        "summary": "Trezor's shipping provider, ShipMonk, was hacked, resulting in a data breach that affected nearly 14,000 Trezor customers, emphasizing the importance of robust security measures in third-party partnerships.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/trezor-discloses-data-breach-affecting-nearly-14-000-customers/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-14 15:37"
+    },
+    {
+        "title": "AI Code Security Under Scrutiny: The Challenge of Open Source Ingestion",
+        "content": "The increasing use of AI coding tools has raised concerns about the security of open source dependencies. As these tools can introduce unverified code at a rapid pace, traditional security review processes are struggling to keep up. Experts argue that organizations need to implement governance measures at the initial stage of package selection to prevent potential security risks. This is particularly important as the scale of open source ingestion continues to grow, making it difficult for security teams to manually vet every dependency. By governing packages at the point of selection, organizations can reduce the risk of introducing vulnerable or malicious code into their development environment.",
+        "summary": "The use of AI coding tools is creating a challenge for security teams as they struggle to keep pace with the rapid introduction of unverified open source dependencies.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-14 15:37"
+    },
+    {
+        "title": "US Government Greenlights Private Sector 'Hack-Back' Operations Against Foreign Cyber Threats",
+        "content": "In a significant move to bolster the nation's cybersecurity, the White House has unveiled a new initiative allowing private security firms to conduct offensive hack-back operations against foreign cybercrime organizations. This development comes on the heels of a presidential memo, which directs the National Coordination Center to establish a program for approving such operations. The program aims to enable private companies to take proactive measures against cyber threats, potentially curbing the rise of malicious activities from abroad. By leveraging the expertise of private security firms, the US government seeks to enhance its cybersecurity posture and better protect American interests in the digital realm.",
+        "summary": "The US government has introduced a new program enabling private security companies to conduct hack-back operations against foreign cybercrime organizations, following a presidential memo.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-14 15:37"
+    },
+    {
+        "title": "WordPress Releases Urgent Security Update to Fix Critical Remote Code Execution Flaw",
+        "content": "A recently discovered high-severity vulnerability in WordPress has been patched, protecting users from potential remote code execution attacks. The flaw, identified as CVE-2026-65640, affects users with Author-level or higher permissions, allowing malicious actors to exploit it through specially crafted Postscript files. WordPress has released version 7.0.4, which includes the necessary security patches to mitigate this vulnerability. The update is crucial, as the vulnerability has a high CVSS score of 8.8, indicating a significant potential impact. Users are advised to update their WordPress installations as soon as possible to ensure their security.",
+        "summary": "WordPress has released an urgent security update to fix a critical remote code execution vulnerability that affects users with Author-level or higher permissions.",
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/wordpress-7-0-4-patches-remote-code-execution-vulnerability/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-14 15:37"
     }
 ]
