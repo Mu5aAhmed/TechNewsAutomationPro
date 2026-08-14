@@ -2308,5 +2308,35 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-13 22:24"
+    },
+    {
+        "title": "Mysterious Ransomware Strain Identified as Lockbit 3.0 Black, Experts Weigh In",
+        "content": "A recently discovered ransomware attack has left a business reeling, with the malicious software appending a .2z0ulF4QF extension to affected files. The incident, which occurred on August 12, 2026, has prompted a call for assistance in identifying and decrypting the ransomware. Experts believe the strain may be linked to Lockbit 3.0 Black, a notorious ransomware variant. As the situation unfolds, cybersecurity specialists are working to provide support and guidance to the affected organization. The attack highlights the growing threat of ransomware and the importance of robust cybersecurity measures.",
+        "summary": "A business has fallen victim to a ransomware attack, with files encrypted and bearing a .2z0ulF4QF extension, potentially linked to Lockbit 3.0 Black. Experts are working to identify and decrypt the malware.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817880/unknown-ransomware-2z0ulf4qf-extension-lockbit-30-black/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-14 05:17"
+    },
+    {
+        "title": "Mysterious Ransomware Strain Strikes Business, Demands Decryption Assistance",
+        "content": "A recently discovered ransomware attack has affected a business, prompting a call for assistance in identifying the malware and determining a decryption method. The attack, which occurred on August 12, 2026, has left the company seeking help in understanding the nature of the threat and finding a way to recover its compromised data. The ransomware in question appends the .2z0ulF4QF extension to affected files and includes a ransom note labeled NN2LockBit 3.2, although its connection to known ransomware strains is unclear. As the situation unfolds, experts are working to provide guidance on potential decryption methods and strategies for mitigating the damage caused by the attack.",
+        "summary": "A business has fallen victim to a mysterious ransomware attack, prompting a search for identification and decryption assistance. The malware, which uses the .2z0ulF4QF extension and an NN2LockBit 3.2 ransom note, is not immediately recognizable as a known strain, adding complexity to the situation.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817880/unknown-ransomware-2z0ulf4qf-extension-nn2lockbit-32-ransom-note/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-14 05:17"
+    },
+    {
+        "title": "Babuk Ransomware: A Growing Threat to Digital Security",
+        "content": "A newly identified strain of ransomware, known as Babuk or Babyk Locker, has been making headlines in the cybersecurity community. This malicious software is capable of encrypting files and appending a variety of extensions, including .babuk, .babyk, and .crYptA, among others. The affected files are rendered inaccessible, leaving victims with limited options for recovery. The Babuk ransomware has been observed to use multiple file extensions, such as .__NIST_K571__, .babuk2, .doydo, .encrypted, .Rook, .lock, and .lock4, to name a few. As the threat landscape continues to evolve, it is essential for individuals and organizations to remain vigilant and take proactive measures to protect their digital assets.",
+        "summary": "The Babuk ransomware is a emerging threat that encrypts files and demands payment in exchange for decryption keys, highlighting the need for robust cybersecurity measures.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/754087/babukbabyk-locker-ransomware-babuk-babyk-crypta-support-topic/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-14 05:17"
     }
 ]
