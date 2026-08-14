@@ -2418,5 +2418,35 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-14 18:35"
+    },
+    {
+        "title": "Ukrainian Authorities Dismantle Massive Fraudulent Call Center Operation",
+        "content": "In a significant crackdown on cybercrime, Ukrainian law enforcement has successfully shut down a vast network of 94 call centers involved in perpetuating investment scams and phishing attacks. The raid, which took place recently, resulted in the seizure of substantial amounts of cash, dealing a major blow to the fraudulent operations. These call centers had been deceiving individuals into investing in fake schemes or divulging sensitive banking information, highlighting the growing threat of telecom-based fraud. The operation underscores the Ukrainian government's commitment to combating cybercrime and protecting its citizens from financial exploitation.",
+        "summary": "Ukrainian authorities have dismantled 94 fraudulent call centers, seizing millions in cash and disrupting investment scams and phishing attacks.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/ukraine-shuts-down-94-fraudulent-call-centers-seize-millions-in-cash/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-14 21:53"
+    },
+    {
+        "title": "Punisher Ransomware Attack: A Growing Threat to Digital Security",
+        "content": "A new wave of ransomware attacks has been reported, with the Punisher Ransomware being the latest variant to compromise user files. This malicious software, also known as VanHelsing Ransomware, encrypts important files and appends a .punisher extension to them. In a recent incident, a user claimed to have fallen victim to the attack, resulting in the encryption of their files. Despite attempting a system restore, the user was left with numerous infected files. The Punisher Ransomware displays a ominous message, claiming to have taken over the user's files and warning them that their data is no longer secure. The attack highlights the importance of robust cybersecurity measures to protect against such threats.",
+        "summary": "The Punisher Ransomware, also known as VanHelsing Ransomware, is a malicious software that encrypts user files and demands attention, emphasizing the need for strong digital security measures.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817044/team-punisher-or-vanhelsing-ransomware-punisher/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-14 21:53"
+    },
+    {
+        "title": "Ransomware Group Outsmarts Security Measures, Steals Data Without Encryption",
+        "content": "In a recent cybersecurity incident, a group of hackers affiliated with the Akira ransomware successfully bypassed a company's endpoint detection and response system by booting a compromised computer into Safe Mode with Networking. This clever tactic allowed the attackers to evade detection and steal sensitive data. Notably, the hackers failed to encrypt the stolen data, which may indicate a lack of sophistication or a shift in their tactics. The incident highlights the evolving nature of cyber threats and the need for organizations to stay vigilant and adapt their security measures accordingly.",
+        "summary": "Akira ransomware affiliate disables EDR solution by restarting a compromised system in Safe Mode, steals data without encrypting it, in a recent cybersecurity incident.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/akira-hackers-disable-edr-with-safe-mode-steal-data-but-fail-to-encrypt/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-14 21:53"
     }
 ]
