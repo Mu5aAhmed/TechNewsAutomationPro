@@ -2498,5 +2498,15 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-15 10:51"
+    },
+    {
+        "title": "Massive Data Breach Hits RingCentral, Exposing 1.6 Million Accounts",
+        "content": "A significant cybersecurity incident has occurred at RingCentral, a prominent cloud-based communications platform, resulting in the exposure of personal information from approximately 1.6 million accounts. This breach is attributed to the ShinyHunters extortion group, which successfully hacked into the company's systems in July. The breach was reported by Have I Been Pwned, a reputable data breach notification service. The incident highlights the growing concern of cybersecurity threats and the importance of robust security measures to protect user data. As the situation unfolds, RingCentral is likely to face scrutiny over its data protection protocols and the potential consequences for affected users.",
+        "summary": "RingCentral suffers a major data breach, with 1.6 million accounts compromised due to a hacking incident by the ShinyHunters extortion group in July, as reported by Have I Been Pwned.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-15 11:42"
     }
 ]
