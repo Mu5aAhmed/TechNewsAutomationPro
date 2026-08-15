@@ -2558,5 +2558,15 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-15 15:44"
+    },
+    {
+        "title": "International Law Enforcement Cracks Down on €30M Bank Fraud Ring",
+        "content": "A recent crackdown by international law enforcement agencies has led to the arrest of four individuals in Brazil and the charging of three others in Europe, all of whom are accused of involvement in a massive bank fraud scheme. The alleged cybercriminals are said to have exploited a vulnerability in a service provider's system, which allowed them to siphon funds from the accounts of customers at a major financial institution. The total losses incurred by the bank are estimated to be around €30 million. The investigation, which was conducted in collaboration with multiple agencies, sheds light on the growing threat of cyber-enabled financial crimes and the importance of cooperation between law enforcement agencies worldwide. The case serves as a reminder of the need for financial institutions and service providers to prioritize cybersecurity and protect their customers' sensitive information.",
+        "summary": "An international law enforcement operation has resulted in the arrest and charging of seven individuals accused of perpetrating a €30M bank fraud scheme by exploiting a service provider vulnerability.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/hackers-arrested-over-30m-bank-fraud-exploiting-service-provider-flaw/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-15 19:01"
     }
 ]
