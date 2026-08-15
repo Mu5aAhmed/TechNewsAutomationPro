@@ -2508,5 +2508,15 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-15 11:42"
+    },
+    {
+        "title": "Shell Probes Alleged Data Breach Following Ransomware Claim",
+        "content": "A prominent energy conglomerate is currently investigating a potential security incident after a ransomware group claimed to have stolen a substantial amount of sensitive data. The multinational company, which is a major player in the oil industry, has confirmed that it is looking into the matter. The ransomware gang, known for its malicious activities, allegedly stole 89GB of data, prompting the company to launch an investigation. As a leading energy company, the potential breach has raised concerns about the security of sensitive information. The company is taking steps to determine the extent of the incident and to prevent any further unauthorized access to its systems.",
+        "summary": "Shell, a British multinational energy conglomerate, is investigating a potential security incident after a ransomware gang claimed to have stolen 89GB of data.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-15 13:40"
     }
 ]
