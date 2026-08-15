@@ -2548,5 +2548,15 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-15 14:53"
+    },
+    {
+        "title": "MacOS Vulnerability Exploited by Hackers to Install Cryptocurrency Mining Malware",
+        "content": "A critical security flaw in macOS Screen Sharing has been discovered, allowing hackers to bypass authentication and gain unauthorized access to vulnerable systems. The Netherlands' National Cyber Security Centre has issued a warning about the active exploitation of this vulnerability, which has been made easier by the release of public exploit code. As a result, hackers are using this vulnerability to deploy Monero mining malware on compromised devices, highlighting the need for macOS users to exercise caution and ensure their systems are up to date with the latest security patches.",
+        "summary": "Hackers are exploiting a macOS authentication bypass vulnerability to install Monero mining malware, prompting a warning from the National Cyber Security Centre in the Netherlands.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/hackers-exploit-macos-screen-sharing-flaw-to-deploy-monero-miner/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-15 15:44"
     }
 ]
