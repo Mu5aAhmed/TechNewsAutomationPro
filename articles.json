@@ -2478,5 +2478,15 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-15 09:02"
+    },
+    {
+        "title": "iPhone Users Experience Email Issues with Latest iOS Update",
+        "content": "A growing number of iPhone users, including those with the iPhone SE model, have reported experiencing problems with receiving new emails on their devices. The issue, which has been observed over the past couple of days, is thought to be linked to the latest iOS update, version 26.6. According to reports, affected users are unable to receive new emails, with some experiencing partial or complete email functionality loss. The problem has been documented on various online forums, including a recent post on a popular tech support platform. The issue is currently being investigated, and users are advised to check for any pending software updates or seek assistance from Apple support.",
+        "summary": "iPhone users, including iPhone SE owners, are experiencing email issues after the latest iOS update, with many unable to receive new emails.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817903/iphone-problems-with-e-mails/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-15 09:54"
     }
 ]
