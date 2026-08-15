@@ -2468,5 +2468,15 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-15 07:19"
+    },
+    {
+        "title": "Trezor Crypto Wallet Users Hit by Data Breach Exposing Personal Info",
+        "content": "A recent data breach has compromised the personal information of approximately 14,000 Trezor customers, a leading hardware crypto wallet provider. The breach, which did not directly involve Trezor's systems, has resulted in the exposure of sensitive customer data, including names, addresses, email addresses, and phone numbers. This security incident is attributed to a third-party vendor, ShipMonk, which handles shipping operations for Trezor. The company has acknowledged the breach and is taking steps to notify and protect the affected customers. The incident highlights the importance of robust security measures and vendor risk management in the cryptocurrency sector.",
+        "summary": "A data breach at ShipMonk has exposed the personal information of nearly 14,000 Trezor customers, including names, addresses, and contact details.",
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/14000-trezor-customers-impacted-by-data-breach-at-shipmonk/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-15 09:02"
     }
 ]
