@@ -2488,5 +2488,15 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-15 09:54"
+    },
+    {
+        "title": "Massive Data Breach Hits RingCentral, Exposing Personal Info of 1.6 Million Users",
+        "content": "A recent cyber attack on the popular business communications platform RingCentral has resulted in the potential exposure of personal information of approximately 1.6 million individuals. The stolen data, which includes sensitive details such as names, addresses, email addresses, and phone numbers, was published by a well-known extortion group. This incident highlights the growing concern of data breaches and the importance of robust security measures to protect user information. The breach is likely to have significant implications for those affected, and RingCentral is expected to take immediate action to mitigate the damage and prevent similar incidents in the future.",
+        "summary": "A data breach at RingCentral has exposed the personal information of 1.6 million users, including names, addresses, and contact details, after a notorious extortion group published the stolen data.",
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-15 10:51"
     }
 ]
