@@ -2448,5 +2448,25 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-14 21:53"
+    },
+    {
+        "title": "Zero-Day Vulnerability in GeoServer Exploited by Hackers Within Hours",
+        "content": "A recently disclosed zero-day vulnerability in GeoServer, a popular geospatial server software, has been exploited by threat actors in a matter of hours. The vulnerability, characterized as a severe SQL injection flaw, enables attackers to execute remote code, posing significant security risks. According to security experts, the rapid exploitation of this unpatched vulnerability underscores the importance of prompt patch management and robust security measures. As the situation continues to unfold, users of GeoServer are advised to exercise extreme caution and monitor their systems for potential security breaches.",
+        "summary": "Hackers have begun exploiting a zero-day vulnerability in GeoServer, a geospatial server software, allowing for remote code execution and highlighting the need for swift security patches.",
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/hackers-exploiting-unpatched-geoserver-zero-day/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-15 07:19"
+    },
+    {
+        "title": "New macOS Malware Strain Exposes User Data and Browser Activity",
+        "content": "A recently discovered malware strain, written in Rust, has been targeting macOS users, compromising sensitive information and gaining control over browser sessions. This sophisticated infostealer is capable of harvesting passwords, keychain data, and browser cookies, including those from Safari and Chromium-based browsers. The malware is being distributed through a fake GitHub download page, which is part of a larger ClickFix attack campaign. According to reports from Jamf, the counterfeit page tricks victims into downloading the malware, allowing it to infiltrate their systems and exfiltrate valuable data.",
+        "summary": "A new Rust-based macOS malware is stealing user data and controlling browser sessions, distributed through a fake GitHub download page as part of a ClickFix attack campaign.",
+        "source": "SecurityWeek",
+        "url": "https://www.securityweek.com/amnesiastealer-macos-malware-steals-data-controls-browser-sessions/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-15 07:19"
     }
 ]
