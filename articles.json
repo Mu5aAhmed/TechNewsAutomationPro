@@ -2518,5 +2518,35 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-15 13:40"
+    },
+    {
+        "title": "Rethinking Security Measures for Google Workspace in the Era of Artificial Intelligence",
+        "content": "As technology continues to advance, the threat landscape for Google Workspace is evolving. With the rise of AI, attackers are finding new ways to infiltrate systems, often bypassing traditional phishing methods. Instead, stolen OAuth tokens have become a viable alternative for gaining access to sensitive information stored in Gmail, Drive, and connected systems. Experts emphasize the need for comprehensive defenses that cover the entire attack chain, rather than focusing on a single point of entry. Recent high-profile breaches, such as the Vercel and Composio incidents, highlight the importance of adopting a multifaceted approach to security. By understanding the modern attack chain and implementing robust measures, organizations can better protect themselves against the growing threat of cyberattacks.",
+        "summary": "The increasing use of AI has led to a shift in the way attackers target Google Workspace, with stolen OAuth tokens becoming a key vulnerability. Organizations must adapt their security measures to address the entire attack chain.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/the-modern-attack-chain-rethinking-google-workspace-security-in-the-age-of-ai/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-15 14:53"
+    },
+    {
+        "title": "Mysterious Ransomware Attack Leaves Experts Baffled as File Extensions Remain Unchanged",
+        "content": "A recent ransomware attack has left cybersecurity experts puzzled due to its unusual characteristics. Unlike typical ransomware attacks, the file extensions of the affected Excel files remained unchanged, and no ransom note was left behind. This anomaly has made it challenging for experts to determine the strain of the ransomware. The incident was reported on a tech support forum, where the victim sought help in identifying the type of ransomware that had encrypted their files. The lack of a ransom note and unchanged file extensions has raised questions about the motivations and tactics of the attackers. As the investigation continues, experts are working to uncover the identity of the ransomware strain and its potential implications for future attacks.",
+        "summary": "A ransomware attack with unusual characteristics has been reported, where file extensions remain unchanged and no ransom note was left behind, making it difficult for experts to determine the strain of the ransomware.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817908/id-ransomware-unable-to-determine-strain-extension-unchanged/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-15 14:53"
+    },
+    {
+        "title": "SAP Commerce Cloud Vulnerability Exploited by Hackers Just Days After Patch",
+        "content": "A recently discovered critical vulnerability in SAP Commerce Cloud is being actively exploited by attackers, barely three days after a patch was released. This remote code execution flaw, considered to be of maximum severity, allows hackers to execute malicious code on affected systems. The swift exploitation of this vulnerability highlights the importance of prompt patching and the relentless efforts of cybercriminals to capitalize on unpatched systems. According to reports from threat intelligence firms, the attacks are underway, underscoring the urgent need for businesses using SAP Commerce Cloud to ensure their systems are updated with the latest security fixes.",
+        "summary": "A critical SAP Commerce Cloud vulnerability is being exploited by hackers just days after a patch was made available, emphasizing the need for swift action to protect against remote code execution attacks.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/news/security/max-severity-sap-commerce-cloud-flaw-now-targeted-in-attacks/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-15 14:53"
     }
 ]
