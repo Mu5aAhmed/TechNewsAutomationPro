@@ -2608,5 +2608,15 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-16 01:21"
+    },
+    {
+        "title": "Mysterious Ransomware Strain Strikes, Leaves Experts Baffled",
+        "content": "A recently discovered ransomware variant has left cybersecurity experts stumped, as it does not match any known families of malware. The unidentified strain, which appends the .OVKRTK extension to compromised files, also leaves a note titled #HOW-TO-RESTORE-YOUR-FILES.txt, presumably containing instructions for victims to recover their data. Despite efforts to identify the malware using ID Ransomware, the case remains unsolved, with a unique SHA1 identifier. As the investigation continues, affected users are seeking help from online forums and tech support communities to recover from the infection.",
+        "summary": "A mysterious ransomware variant with a .OVKRTK extension has been discovered, leaving experts unable to identify its family, and victims are seeking help online to recover their compromised files.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817932/unidentified-ransomware-ovkrtk-extension-how-to-restore-your-filestxt-note/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-16 03:01"
     }
 ]
