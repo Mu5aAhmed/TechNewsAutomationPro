@@ -2628,5 +2628,15 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-16 12:40"
+    },
+    {
+        "title": "New Ransomware Variant Emerges: Garuda3 (MedusaLocker3) Spotted in the Wild",
+        "content": "A recently discovered ransomware strain, known as Garuda3 or MedusaLocker3, has been making waves in the cybersecurity community. This particular malware is notable for its use of the Rust programming language and its unique file encryption methods. Upon infection, Garuda3 appends a variant-specific extension, followed by a numerical sequence, to the encrypted file names. The ransomware also leaves behind a notification file named 'How_recovery_files.html', which contains instructions for victims to contact the attackers via email. The email addresses provided for recovery purposes start with 'rrecovery'. As the threat landscape continues to evolve, it is essential for individuals and organizations to remain vigilant and take proactive measures to protect themselves against such ransomware attacks.",
+        "summary": "The Garuda3 ransomware, also known as MedusaLocker3, has been identified as a new variant of ransomware that encrypts files and demands recovery via email.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817940/garuda3-ransomware-medusalocker3/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-16 14:24"
     }
 ]
