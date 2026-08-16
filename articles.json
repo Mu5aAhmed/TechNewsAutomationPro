@@ -2618,5 +2618,15 @@
         "image": "",
         "category": "Technology",
         "date": "2026-08-16 03:01"
+    },
+    {
+        "title": "New Ransomware Strain Emerges: Garuda3 Targets User Files",
+        "content": "A recently discovered ransomware variant, known as Garuda3, has been reported to encrypt files and demand ransom payments from affected users. This malicious software appends the .garuda3 extension to compromised files, rendering them inaccessible to victims. Upon infection, Garuda3 creates an HTML notification file named How_recovery_files.html, which contains instructions for recovering encrypted files. The notification includes email addresses, such as rrecovery1@amniyat.xyz, where victims are directed to contact the attackers. The emergence of Garuda3 highlights the ongoing threat of ransomware attacks, which continue to evolve and target unsuspecting users.",
+        "summary": "Garuda3 ransomware encrypts files with the .garuda3 extension and demands ransom payments, posing a significant threat to user data security.",
+        "source": "BleepingComputer",
+        "url": "https://www.bleepingcomputer.com/forums/t/817940/garuda3-ransomware/",
+        "image": "",
+        "category": "Technology",
+        "date": "2026-08-16 12:40"
     }
 ]
